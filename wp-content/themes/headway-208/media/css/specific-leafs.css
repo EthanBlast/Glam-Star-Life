@@ -1,0 +1,66 @@
+/* Image Rotator */
+div.leaf-content div.rotator-images {
+	display: inline-block;
+	top: -5px;
+	position: relative; }
+	
+	div.leaf-content div.rotator-images img { overflow: hidden; }
+
+
+/* Gallery */
+div.gallery div.leaf-content div { display: block; }
+ 
+
+/* Content Slider */
+div.content-slider div.leaf-content div { display: block; }
+div.content-slider-controller { margin: -20px 0 0 0; }
+
+
+/* Feed */
+div.feed div.leaf-content div { display: block; }
+
+
+/* Featured */
+div.leaf-content div.featured-post-container, div.featured-leaf-container {
+	float: left;
+	display: block; }
+	
+div.leaf-content div.featured-post-container { padding-bottom: 15px; }
+ 
+div.featured-entry-content {
+	float: left;
+	display: block;
+	width: 100%;
+	margin: 0 0 5px; }
+
+	.featured-entry-content {
+		clear: both;
+		margin: 5px 0;
+		float: left; } 
+
+	.featured-post { margin: 10px 0; }
+
+	.featured_prev { float: left; }
+
+	.featured_next { float: right; }
+
+	.featured_outside_prev,
+	.featured_outside_next {
+		margin: 30px 0 0 0;
+		position: relative; }
+
+	
+/* About */
+.about-image {
+	padding: 1px;
+	border: 1px solid #ccc; }
+
+.about-read-more {
+	clear: both;
+	float: left;
+	margin: 3px 0 0; }
+	
+/* Feed */
+div.feed-post {
+	margin: 5px 0;
+	padding: 10px 0; }

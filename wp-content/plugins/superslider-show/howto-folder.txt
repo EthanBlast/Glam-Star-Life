@@ -1,0 +1,27 @@
+
+
+How to use the from folder option.
+Important, there are 3 steps to make this work.
+
+(1.) Upload a folder of images to your wp-content folder
+Your image folder must be in side of the wp-content folder (where ever you have put it), if you have for example " wp-content/image_sets/set_one" you would set the fromfolder to:
+fromfolder='image_sets/set_one'
+This will not pull images from sub folders within your defined fromfolder.
+
+(2.) Create a post or page and add the fromfolder='your_folder_name' to the short code.
+shortcode sample : 
+[slideshow fromfolder='testfolder' linked="lightbox" thumbnails="true"]
+
+(3.) You will also need to attach an image to the page or post.
+(using the WordPress media uploader on the post page)
+This image does not have to be in your image folder, and it will not be added to the show, but it could be used in extracts and feeds etc. () Also, it will be displayed if the users has javascript disabled.
+
+(4.) If you want to use thumbnails, you will have to use the following naming convention: image = image.jpg, thumb = imaget.jpg . where a simple letter "t" has been added to the image name. Place the thumbnails in the same folder as your images
+
+(5.) Lightbox will still work as expected. Although since there is just the one image, the lightbox will pop over the same image which has been viewed in the slideshow. So if your image is 800 x 600 and you set the slideshow to 400 x 300, the image will be scaled down in the show, then the popover lightbox will present the image at full size.
+
+(6.) Captions will be the file name with the last 4 digits removed, ie: image.jpg will result in a caption of image.
+
+(7.) Multiple shows on one page will continue to work as expected.
+
+Note: The search for images in your folder script is set to pull all images over 150px x 150px in size. This way it won't include the thumbnails in the image list. If you want to change this you will need to edit the file superslider-show.php around line #520 and change &min_width=150 to the minimum size you want to pull. Your actual thumbnails may be any size up to and including 150px . Remember, if you make your thumbnails at for example 80px x 80px you will need to edit the slideshow theme css file to reflect the size you've chosen. 

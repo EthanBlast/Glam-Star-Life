@@ -1,0 +1,4 @@
+ul.horizontal-navigation { width: 100%; background: transparent; border-bottom: none; }
+ul.horizontal-navigation li a {color:#888;background:transparent;border-right:none;font-family:georgia, serif;font-size:14px;line-height:18px;}
+ul.horizontal-navigation li.current_page_item a {color:#555;font-family:georgia, serif;font-size:14px;line-height:18px;}
+ul.horizontal-navigation li ul { border: none; }

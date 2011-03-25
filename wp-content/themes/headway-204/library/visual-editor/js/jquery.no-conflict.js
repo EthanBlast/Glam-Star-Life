@@ -1,0 +1,1 @@
+hwjs = jQuery.noConflict();

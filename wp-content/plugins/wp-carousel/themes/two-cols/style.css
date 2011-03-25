@@ -1,0 +1,87 @@
+.theme-two-cols { margin:20px 0 0 0; }
+
+.theme-two-cols .arrow-right {
+	width:30px;
+	height:140px;
+	background:url(img/carousel-bg-corners.png) top right no-repeat;
+	float:right;
+}
+
+.theme-two-cols .arrow-left {
+	width:30px;
+	height:140px;
+	background:url(img/carousel-bg-corners.png) top left no-repeat;
+	float:left;
+}
+
+.theme-two-cols .arrow-left a {
+	margin:60px 0 0 0;
+	width:25px;
+	height:30px;
+	background:url(img/arrow_left.png) top left no-repeat;
+	display:block;
+}
+
+.theme-two-cols .arrow-right a {
+	margin:60px 0 0 0;
+	width:25px;
+	height:30px;
+	background:url(img/arrow_right.png) top right no-repeat;
+	display:block;
+}
+
+.theme-two-cols .hide { display:none; }
+
+.theme-two-cols .stepcarousel {
+	position: relative; /* Leave this value alone */
+	overflow: scroll; /* Leave this value alone */
+	height: 140px;
+	background:url(img/carousel-bg.png) top left repeat-x;
+}
+
+.theme-two-cols .stepcarousel .belt{
+	position: absolute; /* Leave this value alone */
+	left: 0;
+	top: 0;
+}
+
+.theme-two-cols .stepcarousel .panel {
+	width:200px;
+	height:100px;
+	float: left; /* Leave this value alone */
+	overflow: hidden; /*Clip content that go outside dimensions of holding panel DIV */
+	margin:10px;
+	padding:10px;
+	border:1px solid #5B5B5B;
+	background:#383838 url(img/carousel-panel-bg.png) bottom left repeat-x;
+	-moz-border-radius:5px;
+	-khtml-border-radius:5px;
+	-webkit-border-radius:5px;
+	border-radius:5px;
+	display:block;
+}
+
+.theme-two-cols .stepcarousel .panel img { width:100px; }
+
+.theme-two-cols .panel a.panel-image-link, .theme-two-cols .panel a.panel-image-link img { display:block; }
+
+.theme-two-cols .panel .panel-col-right {
+	padding:0 0 0 10px;
+}
+
+.theme-two-cols .panel .panel-col-left {
+	float:left;
+}
+
+.theme-two-cols .stepcarousel .panel .panel-text { color:#FFF; text-align:left; }
+
+.wp_carousel_default_pagination {
+	margin:0 30px;
+	padding:5px 10px;
+	background:#3B3B3B;
+	text-align:center;
+	-moz-border-radius:0 0 5px 5px;
+	-khtml-border-radius:0 0 5px 5px;
+	-webkit-border-radius:0 0 5px 5px;
+	border-radius:0 0 5px 5px;
+}

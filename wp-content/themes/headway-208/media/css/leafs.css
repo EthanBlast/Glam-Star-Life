@@ -1,0 +1,92 @@
+/* Leaf Containers */
+div.container { 
+	padding: %%leaf_container_padding%%;
+	width: %%leaf_container_width%%px; }
+	
+div#container { margin-bottom: 5px; }
+
+
+/* Leafs */
+div.headway-leaf {
+	float: left;
+	width: 250px;
+	margin: %%leaf_margins%%px;
+	padding: %%leaf_padding%%px;
+	overflow: hidden;
+	min-height: 125px; }
+	
+div.resize-container div.resize { border-width: %%leaf_resize_border%%px; }
+ 
+div.fluid-height { height: auto !important; overflow: visible; }
+
+div.headway-leaf-left { float: left; }
+div.headway-leaf-right { float: right; }
+
+div.headway-leaf-clear-left { clear: left; }
+div.headway-leaf-clear-right { clear: right; }
+div.headway-leaf-clear-both { clear: both; }
+
+
+/* Leaf Titles */
+.leaf-top {
+	padding: 2px 4px;
+	border-bottom: 0 solid;
+	margin: 0 0 5px 0; }
+	
+	
+/* Leaf Columns */
+.leafs-column .headway-leaf { padding: 0; }
+.leafs-column .headway-leaf .headway-leaf-inside { padding: %%leaf_padding%%px; }
+
+div.leafs-column div.hw-ui-sortable-helper { max-width: %%wrapper_minus_twenty%%px !important; }	
+
+div#columns-container { width: 100%; }
+	
+div#container div.hw-ui-sortable-placeholder, div#top-container div.hw-ui-sortable-placeholder, div#bottom-container div.hw-ui-sortable-placeholder {
+	margin: 1px !important;
+	border-width: 1px !important;
+	padding: %%placeholder_padding%%px !important; }
+
+div#wrapper div.leafs-column div.hw-ui-sortable-placeholder { width: 100% !important; padding: 0 !important; }
+div#wrapper div.resize-column div.hw-ui-sortable-placeholder { margin: 0 0 1px -1px !important; padding-bottom: %%resize_column_placeholder_padding%%px !important; }
+
+div#wrapper div.clear { clear: both; display: block; height: 0; }
+
+div#wrapper div.leafs-column { 
+	border-right-style: %%leaf_containers_border_style%%;
+	border-right-width: %%leaf_containers_border_width%%px; 
+	border-right-color: #%%leaf_containers_border_color%%;
+	min-height: 200px; 
+	display: block; 
+	margin: 0;
+	padding: 10px %%leaf_columns_padding%%px 10px 10px;
+	height: auto;
+	float: left; }
+	
+body.headway-visual-editor-open div#wrapper div.leafs-column { margin: 0; padding: 10px %%leaf_columns_padding%%px 10px 10px; }
+
+div#wrapper div.last-leafs-column, body.headway-visual-editor-open div#wrapper div.last-leafs-column { border-right: 0; padding-right: 10px; }
+	
+	div#wrapper div.leafs-column .headway-leaf { width: 100% !important; margin: 0 0 %%leafs_column_leaf_bottom_margin%%px; }
+	div#wrapper div.leafs-column .hw-ui-sortable-placeholder { margin-bottom: %%leafs_column_placeholder_bottom_margin%%px; }
+	div#wrapper div.leafs-column .hw-ui-sortable-helper { width: inherit !important; }
+	
+
+div#wrapper div#top-container { 
+	border-right: 0; 
+	margin: 0;
+	border-bottom-style: %%leaf_containers_border_style%%;
+	border-bottom-color: #%%leaf_containers_border_color%%;
+	border-bottom-width: %%leaf_containers_border_width%%px; 
+	padding-bottom: %%leaf_containers_padding%%px;
+	min-height: 50px; }
+	
+div#wrapper div#bottom-container { 
+	border-right: 0; 
+	padding-right: 5px; 
+	margin: 0; 
+	border-top-style: %%leaf_containers_border_style%%;
+	border-top-color: #%%leaf_containers_border_color%%;
+	border-top-width: %%leaf_containers_border_width%%px; 
+	padding-top: %%leaf_containers_padding%%px;
+	min-height: 50px; }

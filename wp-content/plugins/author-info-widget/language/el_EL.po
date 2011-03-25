@@ -1,0 +1,377 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Author Info Widget\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-09-25 12:57+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Dennis Hoppe\n"
+"Language-Team: Stefanos Meimaroglou <StefMeis@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: t;t:2c,1\n"
+"X-Poedit-Language: Greek\n"
+"X-Poedit-Country: GREECE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../form.php:2
+msgid "Title"
+msgstr "Τίτλος"
+
+#: ../form.php:4
+msgid "Leave blank to use the widget default title."
+msgstr "Άφησε κενό για να μείνει ο εξ'ορισμού τίτλος του προσθέτου."
+
+#: ../form.php:8
+msgid "Author(s)"
+msgstr "Συντάκτη/ες"
+
+#: ../form.php:10
+msgid "Show the author(s) of the post/page"
+msgstr "Δείξε τον Συντάκτη/ες του άρθρου/σελίδας"
+
+#: ../form.php:14
+msgid "Show the following author(s)"
+msgstr "Δείξε τους ακόλουθους Συντάκτη/ες"
+
+#: ../form.php:16
+msgid "Please select the authors which should be shown by the widget."
+msgstr "Επίλεξε τον Συντάκτη/ες που θα εμφανίζει τον πρόσθετο."
+
+#: ../form.php:26
+msgid "Gravatar"
+msgstr "Γράβαταρ"
+
+#: ../form.php:29
+msgid "Show the authors avatar"
+msgstr "Δείξε την εικόνα του Συντάκτη"
+
+#: ../form.php:31
+msgid "You can setup your gravatar on <a href=\"http://gravatar.com/\" target=\"_blank\">the gravatar website</a>."
+msgstr "Μπορείς να ρυθμίσεις την gravatar εικόνα <a href=\"http://gravatar.com/\" target=\"_blank\">η ιστοσελίδα του gravatar</a>."
+
+#: ../form.php:33
+msgid "Size"
+msgstr "Μέγεθος"
+
+#: ../form.php:38
+msgid "Display"
+msgstr "Εμφάνιση"
+
+#: ../form.php:41
+msgid "Show the name of the author."
+msgstr "Δείξε το όνομα του συντάκτη."
+
+#: ../form.php:45
+msgid "Show the homepage link."
+msgstr "Δείξε την ιστιοσελίδα του."
+
+#: ../form.php:46
+#: ../form.php:51
+#: ../form.php:56
+#: ../form.php:61
+#: ../form.php:66
+msgid "Caption"
+msgstr "Λεζάντα"
+
+#: ../form.php:50
+msgid "Show the E-Mail address."
+msgstr "Δείξε την διεύθυνση του ηλεκτρονικού ταχυδρομίου του."
+
+#: ../form.php:55
+msgid "Show the jabber name."
+msgstr "Δείξε το Jabber του."
+
+#: ../form.php:60
+msgid "Show the AIM name."
+msgstr "Δείξε το ΑΙΜ του."
+
+#: ../form.php:65
+msgid "Show the YIM name."
+msgstr "Δείξε το ΥΙΜ του."
+
+#: ../form.php:70
+msgid "Show a link to the authors posts on this blog."
+msgstr "Δείξε τη συντόμευση στα άρθρα του συντάκτη σε αυτό τον ιστότοπο."
+
+#: ../form.php:74
+msgid "Miscellaneous"
+msgstr "Διάφορα"
+
+#: ../form.php:77
+msgid "Hide this widget from users which are not logged in."
+msgstr "Κρύψε το πρόσθετο απο τους μη συνδεμένους χρήστες."
+
+#: ../form.php:82
+msgid "Hide this Widget on pages."
+msgstr "Κρύψε το πρόσθετο στις σελίδες."
+
+#: ../wp-plugin-widget-author-info.php:32
+msgid "Author Info"
+msgstr "Πληροφορίες του συντάκτη."
+
+#: ../wp-plugin-widget-author-info.php:33
+msgid "You can add this widget to sidebars on author relevant sections i.e. pages, posts or author archives."
+msgstr "Μπορείς να κρύψεις αυτο το πρόσθετο στο πλάϊ στα σχετικά με τον συντάκτη π.χ, σελίδες, άρθρα ή τα αρχεία του."
+
+#: ../wp-plugin-widget-author-info.php:61
+msgid "Visit website"
+msgstr "Επισκέψου την ιστιοσελίδα"
+
+#: ../wp-plugin-widget-author-info.php:62
+msgid "Write an E-Mail"
+msgstr "Γράψε ηλεκτρονικό ταχυδρομίο"
+
+#: ../wp-plugin-widget-author-info.php:63
+msgid "Contact via Jabber"
+msgstr "Επικοινωνία μέσω Jabber"
+
+#: ../wp-plugin-widget-author-info.php:64
+msgid "Contact via AIM"
+msgstr "Επικοινωνία μέσω AIM"
+
+#: ../wp-plugin-widget-author-info.php:65
+msgid "Contact via YIM"
+msgstr "Επικοινωνία μέσω YIM"
+
+#: ../wp-plugin-widget-author-info.php:160
+msgid "About the author"
+msgstr "Σχετικά με τον συντάκτη"
+
+#: ../wp-plugin-widget-author-info.php:163
+msgid "About the authors"
+msgstr "Σχετικά με τους συντάκτες"
+
+#: ../wp-plugin-widget-author-info.php:186
+#, php-format
+msgid "Read all of %s Posts"
+msgstr "Δές όλα τα άρθρα του %s"
+
+#: ../wp-plugin-widget-author-info.php:188
+#, php-format
+msgid "Read all of %s's Posts"
+msgstr "Δές όλα τα άρθρα των %s"
+
+#~ msgid "Please think about a donation!"
+#~ msgstr "Παρακαλώ κάντε μια δωρεά!"
+#~ msgid "Donation to the Open Source Community"
+#~ msgstr "Δωρεά προς την Κοινότητα Ανοιχτού Κωδικα"
+#~ msgid "Reference"
+#~ msgstr "Αναφορά"
+#~ msgid "WordPress"
+#~ msgstr "Λεξότυπος"
+#~ msgid "Plugin"
+#~ msgstr "Πρόσθετο"
+#~ msgid "the theme"
+#~ msgstr "το θέμα"
+#~ msgid "Hello %1$s!"
+#~ msgstr "Γειά σου %1$s!"
+#~ msgid ""
+#~ "My name is Dennis Hoppe and I am a computer science student working and "
+#~ "living in Berlin, Germany."
+#~ msgstr ""
+#~ "Το ονομά μου είναι Ντένης Χόουπ και είμαι φοιτητής πληροφορικής που ζεί "
+#~ "και εργάζετε στο Βερολίνο στην Γερμανία."
+#~ msgid "Beside other plugins and themes I developed %1$s."
+#~ msgstr "Εκτός απο άλλα πρόσθετα και θέματα που ανέπτυξα %1$s."
+#~ msgid "and"
+#~ msgstr "καί"
+#~ msgid ""
+#~ "I love the spirit of the open source movement, to write and share code "
+#~ "and knowledge, but I think the system can work only if everyone "
+#~ "contributes one's part properly."
+#~ msgstr ""
+#~ "Αγαπάω το πνεύμα της κίνησης του Ανοιχτού Κώδικα, το να γράφω και να "
+#~ "μοιράζομαι τον κώδικα και τις γνώσεις μου, αλλά πιστεύω πως το σύστημα "
+#~ "μπορεί να δουλέψει μόνο αν όλοι προσφέρουμε σωστά."
+#~ msgid ""
+#~ "Because you are using %1$s of my WordPress extensions I hope you will "
+#~ "appreciate my job."
+#~ msgstr ""
+#~ "Επειδή χρησιμοποιείς %1$s των προσθέτων μου για το Wordpress ελπίζω να "
+#~ "εκτιμήσεις τον κόπο μου."
+#~ msgid ""
+#~ "So please think about a donation. You would also help to keep alive and "
+#~ "growing the community."
+#~ msgstr ""
+#~ "Οπότε σκέψου να κάνεις μια δωρεά. Θα βοηθήσεις επίσης να κρατηθεί ζωντανή "
+#~ "και να αναπτυχθεί η κοινότητα"
+#~ msgid "Make a gift of the Amazon Wish List"
+#~ msgstr "Κάνε ενα δώρο απ'την Λίστα μου στο 'Αμαζον (Amazon)"
+#~ msgid "Amazon USA"
+#~ msgstr "'Αμαζον Αμερικής"
+#~ msgid "Amazon Germany"
+#~ msgstr "'Αμαζον Γερμανίας"
+#~ msgid "Make a donation via PayPal"
+#~ msgstr "Κάνε μία δωρεά μέσω PayPal"
+#~ msgid "Make a donation in US Dollars"
+#~ msgstr "Κάνε μία δωρεά σε Δολάρια Αμερικής"
+#~ msgid "Amount"
+#~ msgstr "Ποσό"
+#~ msgid "Amount in USD"
+#~ msgstr "Ποσό σε Δολάρια Αμερικής"
+#~ msgid "other amount"
+#~ msgstr "άλλο ποσό"
+#~ msgid "Proceed to PayPal"
+#~ msgstr "Συνέχισε στο PayPal "
+#~ msgid "Make a donation in Pound sterling"
+#~ msgstr "Κάνε μία δωρεά σε Λίρες Αγγλίας"
+#~ msgid "Amount in GBP"
+#~ msgstr "Ποσό σε Λίρες Αγγλίας"
+#~ msgid "Make a donation in Euro"
+#~ msgstr "Κάνε μία δωρεά σε Ευρώ"
+#~ msgid "Amount in EUR"
+#~ msgstr "Ποσό σε Ευρώ"
+#~ msgid "Make a donation in another currency"
+#~ msgstr "Κάνε μία δωρεά σε άλλο νόμισμα"
+#~ msgid "Other currency"
+#~ msgstr "Άλλο νόμισμα"
+#~ msgid "International currency"
+#~ msgstr "Διεθνές νόμισμα"
+#~ msgid ""
+#~ "After donation you will possibly get to know how you can hide this notice "
+#~ "easily. ;)"
+#~ msgstr ""
+#~ "Μετά την δωρεά θα μάθεις πόσο εύκολα μπορείς να κρύψεις αυτή την "
+#~ "ειδοποίηση. ;)"
+#~ msgid "Donation to Dennis Hoppe"
+#~ msgstr "Δωρεά στον Ντένις Χόουπ"
+#~ msgid ""
+#~ "I give the affidavit that I have sent a donation to Dennis Hoppe or paid "
+#~ "him a fee for his job."
+#~ msgstr ""
+#~ "Θα δώσω την απόδειξη ότι έχω στείλει την δωρεά στον Ντένις Χόουπ ή θα τον "
+#~ "πληρώσω για την εργασία του."
+#~ msgid "none"
+#~ msgstr "Κανένα"
+#~ msgid "one"
+#~ msgstr "ένα"
+#~ msgid "two"
+#~ msgstr "δύο"
+#~ msgid "three"
+#~ msgstr "τρία"
+#~ msgid "four"
+#~ msgstr "τέσσερα"
+#~ msgid "five"
+#~ msgstr "πέντε"
+#~ msgid "six"
+#~ msgstr "έξι"
+#~ msgid "seven"
+#~ msgstr "επτά"
+#~ msgid "eight"
+#~ msgstr "οχτώ"
+#~ msgid "nine"
+#~ msgstr "εννέα"
+#~ msgid "ten"
+#~ msgstr "δέκα"
+#~ msgid "eleven"
+#~ msgstr "έντεκα"
+#~ msgid "twelve"
+#~ msgstr "δώδεκα"
+#~ msgid "thirteen"
+#~ msgstr "δεκατρία"
+#~ msgid "fourteen"
+#~ msgstr "δέκα τεσσερα"
+#~ msgid "fifteen"
+#~ msgstr "δέκα πέντε"
+#~ msgid "sixteen"
+#~ msgstr "δέκα έξι"
+#~ msgid "seventeen"
+#~ msgstr "δέκα επτά"
+#~ msgid "eighteen"
+#~ msgstr "δέκα οχτώ"
+#~ msgid "nineteen"
+#~ msgstr "δέκα εννέα"
+#~ msgid "twenty"
+#~ msgstr "είκοσι "
+#~ msgid "twenty-one"
+#~ msgstr "είκοσι ένα"
+#~ msgid "twenty-two"
+#~ msgstr "είκοσι δύο"
+#~ msgid "twenty-three"
+#~ msgstr "είκοσι τρία"
+#~ msgid "twenty-four"
+#~ msgstr "είκοσι τέσσερα"
+#~ msgid "twenty-five"
+#~ msgstr "είκοσι πέντε"
+#~ msgid "twenty-six"
+#~ msgstr "είκοσι έξι"
+#~ msgid "twenty-seven"
+#~ msgstr "είκοσι επτά"
+#~ msgid "twenty-eight"
+#~ msgstr "είκοσι οκτώ"
+#~ msgid "twenty-nine"
+#~ msgstr "είκοσι εννέα"
+#~ msgid "thirty"
+#~ msgstr "τριάντα "
+#~ msgid "thirty-one"
+#~ msgstr "τριάντα ένα"
+#~ msgid "thirty-two"
+#~ msgstr "τριάντα δύο"
+#~ msgid "thirty-three"
+#~ msgstr "τριάντα τρία"
+#~ msgid "thirty-four"
+#~ msgstr "τριάντα τέσσερα"
+#~ msgid "thirty-five"
+#~ msgstr "τριάντα πέντε"
+#~ msgid "thirty-six"
+#~ msgstr "τριάντα έξι"
+#~ msgid "thirty-seven"
+#~ msgstr "τριάντα επτά"
+#~ msgid "thirty-eight"
+#~ msgstr "τριάντα οχτώ"
+#~ msgid "thirty-nine"
+#~ msgstr "τριάντα εννέα"
+#~ msgid "fourty"
+#~ msgstr "σαράντα "
+#~ msgid "fourty-one"
+#~ msgstr "σαράντα ένα"
+#~ msgid "fourty-two"
+#~ msgstr "σαράντα δύο"
+#~ msgid "fourty-three"
+#~ msgstr "σαράντα τρία"
+#~ msgid "fourty-four"
+#~ msgstr "σαράντα τέσσερα"
+#~ msgid "fourty-five"
+#~ msgstr "σαράντα πέντε"
+#~ msgid "fourty-six"
+#~ msgstr "σαράντα έξι"
+#~ msgid "fourty-seven"
+#~ msgstr "σαράντα επτά"
+#~ msgid "fourty-eight"
+#~ msgstr "σαράντα οχτώ"
+#~ msgid "fourty-nine"
+#~ msgstr "σαράντα εννέα"
+#~ msgid "fifty"
+#~ msgstr "πενήντα "
+#~ msgid "fifty-one"
+#~ msgstr "πενήντα ένα"
+#~ msgid "fifty-two"
+#~ msgstr "πενήντα δύο"
+#~ msgid "fifty-three"
+#~ msgstr "πενήντα τρία"
+#~ msgid "fifty-four"
+#~ msgstr "πενήντα τέσσερα"
+#~ msgid "fifty-five"
+#~ msgstr "πενήντα πέντε"
+#~ msgid "fifty-six"
+#~ msgstr "πενήντα έξι"
+#~ msgid "fifty-seven"
+#~ msgstr "πενήντα επτά"
+#~ msgid "fifty-eight"
+#~ msgstr "πενήντα οχτώ"
+#~ msgid "fifty-nine"
+#~ msgstr "πενήντα εννέα"
+#~ msgid "sixty"
+#~ msgstr "εξήντα"
+#~ msgid "seventy"
+#~ msgstr "εβδομήντα"
+#~ msgid "eighty"
+#~ msgstr "οχδόντα"
+#~ msgid "ninty"
+#~ msgstr "ενενήντα"
+#~ msgid "hundred"
+#~ msgstr "εκατό"
+

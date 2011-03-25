@@ -1,0 +1,120 @@
+This plugin can be used as a widget or as a function hard coded in your theme.
+As for the function, the usage is as it follows:
+<?php
+$args = array(
+       'title'	      => 'Featured Posts',
+       'numberposts'  => 5,
+       'orderby'      => 'DESC',
+       'widththumb'   => 73,
+       'heightthumb'  => 73,
+       'beforetitle'  => '<h3>',
+       'aftertitle'   => '</h3>'
+   );
+featured_posts_YIW( $args );   
+
+
+?>
+
+By default:
+ - the title is "Featured Posts"
+ - the posts shown are 5
+ - thumbnail's width and height is 73 pixel
+ - the title is wrapped with an H3 tag
+ 
+Parameters
+
+**title**
+(string) Set the text and style of the Page list's heading
+
+**numberposts**
+(integer) Sets the number of Posts to display
+
+**orderby**
+(string) Sort posts by one of various values (separated by space), including: 
+
+    * 'author' - Sort by the numeric author IDs.
+    * 'category' - Sort by the numeric category IDs.
+    * 'content' - Sort by content.
+    * 'date' - Sort by creation date.
+    * 'ID' - Sort by numeric post ID.
+    * 'menu_order' - Sort by the menu order. Only useful with pages and attachments.
+    * 'mime_type' - Sort by MIME type. Only useful with attachments.
+    * 'modified' - Sort by last modified date.
+    * 'name' - Sort by stub.
+    * 'parent' - Sort by parent ID.
+    * 'password' - Sort by password.
+    * 'rand' - Randomly sort results.
+    * 'status' - Sort by status.
+    * 'title' - Sort by title.
+    * 'type' - Sort by type.
+    
+**widththumb - heightthumb**
+(integer) Sets thumbnail's width and height
+
+**beforetitle - aftertitle**
+(string) Sets wrap tag for the title
+
+
+
+-------------------------------------------------------------------------------
+
+Questo plugin può essere utilizzato come widget, oppure come funzione direttamente nel codice del tema.
+Per quanto riguarda la funzione, l'uso è il seguente:
+
+<?php
+
+$args = array(
+       'title'	      => 'Featured Posts',
+       'numberposts'  => 5,
+       'orderby'      => 'DESC',
+       'widththumb'   => 73,
+       'heightthumb'  => 73,
+       'beforetitle'  => '<h3>',
+       'aftertitle'   => '</h3>'
+   );
+featured_posts_YIW( $args );   
+
+?>
+
+Di default:
+ - il titolo è "Featured Posts";
+ - i post mostrati sono 5;
+ - la larghezza e l'altezza della miniatura sono 73 pixel;
+ - Il titolo è contenuto in un tag H3.
+ 
+Parametri
+
+**title**
+(stringa) Imposta il titolo del widget
+
+**numberposts**
+(integer) Imposta il numero di post da mostrare
+
+**orderby**
+(string) Ordina i post secondo i seguenti criteri:
+
+    * 'author' - ordina secondo l'ID dell'autore
+    * 'category' - ordina secondo l'ID della categoria.
+    * 'content' - ordina secondo il contenuto.
+    * 'date' - ordina per data di creazione.
+    * 'ID' - ordina secondo l'ID del post.
+    * 'menu_order' - ordina secondo l'ordine del menu.
+    * 'mime_type' - ordina secondo il mime_type.
+    * 'modified' - ordina secondo l'ultima data di modifica.
+    * 'name' - ordina secondo permalink.
+    * 'parent' - ordina secondo l'ID del genitore.
+    * 'password' - ordina secondo la password.
+    * 'rand' - ordina casualmente.
+    * 'status' - ordina secondo lo stato dell'articolo.
+    * 'title' - ordina secondo il titolo.
+    * 'type' - ordina secondo il tipo.
+    
+**widththumb - heightthumb**
+(integer) Imposta l'altezza e la larghezza della miniatura
+
+**beforetitle - aftertitle**
+(string) Imposta il tag in cui è contenuto il titolo
+
+
+
+

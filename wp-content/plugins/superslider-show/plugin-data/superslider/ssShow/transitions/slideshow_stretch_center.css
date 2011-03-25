@@ -1,0 +1,40 @@
+/**
+Stylesheet: transitions
+  CSS for Slideshow.
+
+License:
+  MIT-style license.
+
+Copyright:
+  Copyright (c) 2008 [Daiv Mowbray](http://www.wp-superslider.com/).
+*/
+.slideshow-images {
+  height: 400px;
+  width: 450px;
+}    
+.slideshow-images-visible { 
+  opacity: 1;
+  width:450px;
+  height: 400px;
+  margin: 0 0;
+  top: 0;
+}  
+.slideshow-images-prev{ 
+  opacity: 0; 
+  width:10px;
+  height: 600px;
+  margin: -100px 245px;
+  top: -10;
+}
+.slideshow-images-next { 
+  opacity: 0; 
+  width:10px;
+  height: 600px;
+  margin: -100px 245px;
+  top: -10;
+}
+.slideshow-images img {
+  float: left;
+  left: 0;
+  top: 0;
+}  

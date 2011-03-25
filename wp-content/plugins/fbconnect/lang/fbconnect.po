@@ -1,0 +1,784 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FBConnect Wordpress plugin 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-12-25 19:33+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Javier <jreyes@sociable.es>\n"
+"Language-Team: Sociable <jreyes@sociable.es>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-Country: SPAIN\n"
+"X-Poedit-SourceCharset: iso-8859-1\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: community.php:19
+msgid "Community friends"
+msgstr ""
+
+#: community.php:33
+#: fbConnectCore.php:143
+msgid "Community"
+msgstr ""
+
+#: community.php:33
+msgid "members"
+msgstr ""
+
+#: community.php:49
+msgid "Previous page"
+msgstr ""
+
+#: community.php:52
+msgid "Next page"
+msgstr ""
+
+#: community_comments.php:14
+msgid "Sent by"
+msgstr ""
+
+#: fbConnectCore.php:148
+msgid "Invite your friends"
+msgstr ""
+
+#: fbConnectCore.php:396
+#: fbConnectCore.php:491
+#: fbConnectCore.php:581
+#: fbConnectCore.php:674
+#: fbConnectCore.php:767
+#: fbConnectCore.php:864
+msgid "Title:"
+msgstr ""
+
+#: fbConnectCore.php:397
+#: fbConnectCore.php:492
+#: fbConnectCore.php:582
+#: fbConnectCore.php:675
+#: fbConnectCore.php:768
+msgid "Welcome msg:"
+msgstr ""
+
+#: fbConnectCore.php:398
+#: fbConnectCore.php:493
+#: fbConnectCore.php:583
+msgid "Max users:"
+msgstr ""
+
+#: fbConnectCore.php:399
+msgid "Login button:"
+msgstr ""
+
+#: fbConnectCore.php:676
+#: fbConnectCore.php:769
+msgid "Max comments:"
+msgstr ""
+
+#: fbConnectCore.php:865
+msgid "Page ID:"
+msgstr ""
+
+#: fbConnectCore.php:866
+msgid "Connections:"
+msgstr ""
+
+#: fbConnectCore.php:867
+msgid "Show stream:"
+msgstr ""
+
+#: fbConnectCore.php:868
+msgid "Width:"
+msgstr ""
+
+#: fbConnectCore.php:869
+msgid "Height:"
+msgstr ""
+
+#: fbConnectInterface.php:90
+msgid "Publish this comment to Facebook"
+msgstr ""
+
+#: fbConnectInterface.php:112
+#: fbConnectInterface.php:114
+msgid "Main post image"
+msgstr ""
+
+#: fbConnectInterface.php:178
+#: fbconnect_register.php:300
+msgid "Cancel"
+msgstr ""
+
+#: fbConnectInterface.php:212
+msgid "Main options"
+msgstr ""
+
+#: fbConnectInterface.php:213
+msgid "Feed Templates"
+msgstr ""
+
+#: fbConnectInterface.php:216
+msgid "Pro options"
+msgstr ""
+
+#: fbConnectInterface.php:262
+msgid "At least one of Facebook Connector options was NOT updated"
+msgstr ""
+
+#: fbConnectInterface.php:264
+msgid "Facebook Connector options updated"
+msgstr ""
+
+#: fbConnectInterface.php:275
+#: fbConnectTemplates.php:40
+msgid "Facebook Connect Options"
+msgstr ""
+
+#: fbConnectInterface.php:280
+msgid "Facebook Application Configuration"
+msgstr ""
+
+#: fbConnectInterface.php:283
+msgid "Facebook App. Config."
+msgstr ""
+
+#: fbConnectInterface.php:285
+msgid "Go to Facebook Developer App"
+msgstr ""
+
+#: fbConnectInterface.php:290
+msgid "Facebook API Key:"
+msgstr ""
+
+#: fbConnectInterface.php:296
+msgid "Facebook API Secret:"
+msgstr ""
+
+#: fbConnectInterface.php:302
+msgid "Automatic Approval:"
+msgstr ""
+
+#: fbConnectInterface.php:306
+msgid "Enable comment auto-approval"
+msgstr ""
+
+#: fbConnectInterface.php:310
+msgid "Add share button:"
+msgstr ""
+
+#: fbConnectInterface.php:314
+msgid "Add Facebook share button to post head"
+msgstr ""
+
+#: fbConnectInterface.php:318
+msgid "Add footer share button:"
+msgstr ""
+
+#: fbConnectInterface.php:322
+msgid "Add Facebook footer share button"
+msgstr ""
+
+#: fbConnectInterface.php:326
+msgid "Comment Form:"
+msgstr ""
+
+#: fbConnectInterface.php:331
+msgid "Allow send user comments to Facebook."
+msgstr ""
+
+#: fbConnectInterface.php:336
+msgid "Avatar link:"
+msgstr ""
+
+#: fbConnectInterface.php:341
+msgid "Link user avatars to Facebook profiles."
+msgstr ""
+
+#: fbConnectInterface.php:346
+msgid "Avatar FB logo:"
+msgstr ""
+
+#: fbConnectInterface.php:351
+msgid "Show Facebook logo in user avatars."
+msgstr ""
+
+#: fbConnectInterface.php:360
+#: fbConnectTemplates.php:81
+msgid "Update Configuration"
+msgstr ""
+
+#: fbConnectLogic.php:593
+msgid "Read more..."
+msgstr ""
+
+#: fbConnectTemplates.php:46
+msgid "Feed comment template"
+msgstr ""
+
+#: fbConnectTemplates.php:61
+msgid "Default image:"
+msgstr ""
+
+#: fbConnectTemplates.php:67
+msgid "Caption:"
+msgstr ""
+
+#: fbConnectTemplates.php:73
+msgid "Description:"
+msgstr ""
+
+#: fbconnect_feed.php:60
+msgid "By"
+msgstr ""
+
+#: fbconnect_register.php:119
+msgid "Community Passport"
+msgstr ""
+
+#: fbconnect_register.php:120
+msgid "Allow notifications?"
+msgstr ""
+
+#: fbconnect_register.php:121
+msgid "Allow Facebook status update?"
+msgstr ""
+
+#: fbconnect_register.php:141
+msgid "Name:"
+msgstr ""
+
+#: fbconnect_register.php:149
+msgid "Nickname:"
+msgstr ""
+
+#: fbconnect_register.php:158
+msgid "Email:"
+msgstr ""
+
+#: fbconnect_register.php:166
+msgid "Sex:"
+msgstr ""
+
+#: fbconnect_register.php:171
+msgid "Sex"
+msgstr ""
+
+#: fbconnect_register.php:172
+msgid "Male"
+msgstr ""
+
+#: fbconnect_register.php:173
+msgid "Female"
+msgstr ""
+
+#: fbconnect_register.php:181
+msgid "Birdthdate:"
+msgstr ""
+
+#: fbconnect_register.php:186
+msgid "Day"
+msgstr ""
+
+#: fbconnect_register.php:196
+msgid "Month"
+msgstr ""
+
+#: fbconnect_register.php:208
+msgid "Year"
+msgstr ""
+
+#: fbconnect_register.php:226
+msgid "Web:"
+msgstr ""
+
+#: fbconnect_register.php:235
+msgid "City:"
+msgstr ""
+
+#: fbconnect_register.php:241
+msgid "State:"
+msgstr ""
+
+#: fbconnect_register.php:247
+msgid "Country:"
+msgstr ""
+
+#: fbconnect_register.php:253
+msgid "ZIP:"
+msgstr ""
+
+#: fbconnect_register.php:262
+msgid "Company:"
+msgstr ""
+
+#: fbconnect_register.php:271
+msgid "Phone:"
+msgstr ""
+
+#: fbconnect_register.php:279
+msgid "About me:"
+msgstr ""
+
+#: fbconnect_register.php:290
+msgid "I agree to the Terms of Use and Privacy Policy"
+msgstr ""
+
+#: fbconnect_register.php:302
+msgid "Send"
+msgstr ""
+
+#: fbconnect_sidebar.php:27
+#: fbconnect_sidebar.php:29
+#: fbconnect_sidebar.php:45
+#: fbconnect_sidebar.php:47
+msgid "Edit profile"
+msgstr ""
+
+#: fbconnect_sidebar.php:31
+msgid "Invite"
+msgstr ""
+
+#: fbconnect_sidebar.php:32
+#: fbconnect_sidebar.php:49
+msgid "Logout"
+msgstr ""
+
+#: fbconnect_sidebar.php:65
+#: fbconnect_sidebar.php:70
+msgid "Login with Facebook:"
+msgstr ""
+
+#: fbconnect_tab.php:6
+msgid "User profile"
+msgstr ""
+
+#: fbconnect_tab.php:18
+msgid "User comments"
+msgstr ""
+
+#: fbconnect_widget.php:26
+msgid "Visitors"
+msgstr ""
+
+#: fbconnect_widget.php:27
+#: fbconnect_widget.php:79
+msgid "Friends"
+msgstr ""
+
+#: fbconnect_widget.php:28
+msgid "Comments"
+msgstr ""
+
+#: fbconnect_widget.php:33
+msgid "Last visitors"
+msgstr ""
+
+#: fbconnect_widget.php:42
+#: fbconnect_widget.php:70
+#: fbconnect_widget_lastfriends.php:36
+#: fbconnect_widget_lastusers.php:19
+msgid "view more..."
+msgstr ""
+
+#: fbconnect_widget.php:48
+msgid "Friends on this site"
+msgstr ""
+
+#: fbconnect_widget.php:60
+#: fbconnect_widget_lastfriends.php:24
+msgid "You don't have friends on this site"
+msgstr ""
+
+#: fbconnect_widget.php:61
+#: fbconnect_widget_lastfriends.php:25
+msgid "Invite your friends!"
+msgstr ""
+
+#: fbconnect_widget.php:65
+#: fbconnect_widget_lastfriends.php:30
+msgid "To see your friends on this site, you must be logged in with Facebook:"
+msgstr ""
+
+#: fbconnect_widget.php:80
+msgid "Full site"
+msgstr ""
+
+#: fbconnect_widget.php:98
+msgid "Powered by"
+msgstr ""
+
+#: fbUserPages.php:42
+msgid "Select"
+msgstr ""
+
+#: invitefriends.php:17
+msgid "Become a Member!"
+msgstr ""
+
+#: invitefriends.php:26
+msgid "Select the friends you want to invite."
+msgstr ""
+
+#: userprofile.php:12
+msgid "Status:"
+msgstr ""
+
+#: userprofile.php:15
+msgid "Member since:"
+msgstr ""
+
+#: userprofile.php:16
+msgid "Website URL:"
+msgstr ""
+
+#: userprofile.php:19
+msgid "Facebook profile"
+msgstr ""
+
+#: pro/edit-obj.php:119
+msgid "You attempted to edit a post that doesn&#8217;t exist. Perhaps it was deleted?"
+msgstr ""
+
+#: pro/edit-obj.php:139
+msgid "Somebody"
+msgstr ""
+
+#: pro/edit-obj.php:140
+#, php-format
+msgid "Warning: %s is currently editing this post"
+msgstr ""
+
+#: pro/edit-obj.php:149
+msgid "Edit Post"
+msgstr ""
+
+#: pro/edit-obj.php:152
+msgid "You are not allowed to edit this post."
+msgstr ""
+
+#: pro/edit-obj.php:193
+msgid "You are not allowed to delete this post."
+msgstr ""
+
+#: pro/edit-obj.php:197
+#: pro/edit-obj.php:200
+#: pro/list-obj.php:30
+#: pro/list-obj.php:33
+msgid "Error in deleting..."
+msgstr ""
+
+#: pro/fbConnectAdvanced.php:62
+msgid "Facebook Connector Options"
+msgstr ""
+
+#: pro/fbConnectAdvanced.php:62
+msgid "Advanced"
+msgstr ""
+
+#: pro/fbConnectAdvanced.php:68
+msgid "Show Registration:"
+msgstr ""
+
+#: pro/fbConnectAdvanced.php:72
+msgid "Show registration form"
+msgstr ""
+
+#: pro/fbConnectAdvanced.php:76
+msgid "Registration form fields:"
+msgstr ""
+
+#: pro/fbConnectAdvanced.php:94
+msgid "Custom profile page:"
+msgstr ""
+
+#: pro/fbConnectAdvanced.php:97
+msgid "Custom user profile URL, %USERID% will be replaced with the Wordpress user ID."
+msgstr ""
+
+#: pro/fbConnectAdvanced.php:101
+msgid "Custom registration:"
+msgstr ""
+
+#: pro/fbConnectAdvanced.php:104
+msgid "Custom registration form URL."
+msgstr ""
+
+#: pro/fbConnectAdvanced.php:108
+msgid "Terms of use:"
+msgstr ""
+
+#: pro/fbConnectAdvanced.php:112
+#: pro/fbConnectAdvanced.php:147
+msgid " "
+msgstr ""
+
+#: pro/fbConnectAdvanced.php:114
+msgid "The site Terms of use page."
+msgstr ""
+
+#: pro/fbConnectAdvanced.php:119
+msgid "Facebook Canvas FBML:"
+msgstr ""
+
+#: pro/fbConnectAdvanced.php:124
+msgid "Use FBML or iFrame Facebook application canvas."
+msgstr ""
+
+#: pro/fbConnectAdvanced.php:137
+msgid "Facebook App. Canvas:"
+msgstr ""
+
+#: pro/fbConnectAdvanced.php:143
+msgid "Home page wall:"
+msgstr ""
+
+#: pro/fbConnectAdvanced.php:149
+msgid "The comments writed on the home will be associated to the selected page."
+msgstr ""
+
+#: pro/fbConnectAdvanced.php:154
+msgid "Short URLs:"
+msgstr ""
+
+#: pro/fbConnectAdvanced.php:166
+msgid "Select a short URL engine."
+msgstr ""
+
+#: pro/fbConnectAdvanced.php:170
+msgid "Fan page ID:"
+msgstr ""
+
+#: pro/fbConnectAdvanced.php:175
+msgid "Select page"
+msgstr ""
+
+#: pro/fbConnectAdvanced.php:183
+msgid "Canvas home, index.php:"
+msgstr ""
+
+#: pro/fbConnectAdvanced.php:187
+msgid "Force to show index.php theme on canvas"
+msgstr ""
+
+#: pro/fbConnectCorePro.php:120
+#: pro/fbConnectCorePro.php:122
+msgid "Facebook Connect Access Control"
+msgstr ""
+
+#: pro/fbConnectCorePro.php:124
+#: pro/fbConnectCorePro.php:126
+msgid "Facebook Stream"
+msgstr ""
+
+#: pro/fbConnectCorePro.php:362
+msgid "Publish to facebook"
+msgstr ""
+
+#: pro/fbConnectCorePro.php:364
+msgid "Link to Canvas app"
+msgstr ""
+
+#: pro/fbConnectCorePro.php:366
+msgid "Publish as online flash"
+msgstr ""
+
+#: pro/fbConnectCorePro.php:368
+msgid "Comment"
+msgstr ""
+
+#: pro/fbConnectCorePro.php:484
+msgid "Facebook fan page ID"
+msgstr ""
+
+#: pro/fbConnectCorePro.php:488
+msgid "Facebook user ID"
+msgstr ""
+
+#: pro/list-obj.php:26
+msgid "You are not allowed to delete this page."
+msgstr ""
+
+#: pro/list-obj.php:74
+msgid "Edit Pages"
+msgstr ""
+
+#: pro/list-obj.php:79
+msgid "Published pages"
+msgstr ""
+
+#: pro/list-obj.php:80
+msgid "Scheduled pages"
+msgstr ""
+
+#: pro/list-obj.php:81
+msgid "Pending pages"
+msgstr ""
+
+#: pro/list-obj.php:83
+msgid "Private pages"
+msgstr ""
+
+#: pro/list-obj.php:92
+msgid "Pages"
+msgstr ""
+
+#: pro/list-obj.php:113
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr ""
+
+#: pro/list-obj.php:143
+msgid "Your page has been saved."
+msgstr ""
+
+#: pro/list-obj.php:143
+msgid "View page"
+msgstr ""
+
+#: pro/list-obj.php:143
+msgid "Edit page"
+msgstr ""
+
+#: pro/list-obj.php:177
+msgid "Search Pages"
+msgstr ""
+
+#: pro/list-obj.php:202
+msgid "&laquo;"
+msgstr ""
+
+#: pro/list-obj.php:203
+msgid "&raquo;"
+msgstr ""
+
+#: pro/list-obj.php:209
+#, php-format
+msgid "Displaying %s&#8211;%s of %s"
+msgstr ""
+
+#: pro/list-obj.php:219
+#: pro/list-obj.php:257
+msgid "Bulk Actions"
+msgstr ""
+
+#: pro/list-obj.php:220
+#: pro/list-obj.php:258
+msgid "Edit"
+msgstr ""
+
+#: pro/list-obj.php:221
+#: pro/list-obj.php:259
+msgid "Delete"
+msgstr ""
+
+#: pro/list-obj.php:269
+msgid "No pages found."
+msgstr ""
+
+#: pro/list-obj.php:301
+msgid "Author"
+msgstr ""
+
+#: pro/list-obj.php:302
+msgid "Submitted"
+msgstr ""
+
+#: themes/Copia de fbconnect/functions.php:156
+msgid "Customize Header"
+msgstr ""
+
+#: themes/Copia de fbconnect/functions.php:156
+#: fbconnect/functions.php:370
+msgid "Header Image and Color"
+msgstr ""
+
+#: themes/Copia de fbconnect/functions.php:169
+msgid "Close Color Picker"
+msgstr ""
+
+#: themes/Copia de fbconnect/functions.php:366
+msgid "Options saved."
+msgstr ""
+
+#: themes/Copia de fbconnect/functions.php:383
+#: fbconnect/functions.php:390
+msgid "Save"
+msgstr ""
+
+#: themes/Copia de fbconnect/functions.php:384
+msgid "Font Color:"
+msgstr ""
+
+#: themes/Copia de fbconnect/functions.php:384
+#, php-format
+msgid "Any CSS color (%s or %s or %s)"
+msgstr ""
+
+#: themes/Copia de fbconnect/functions.php:385
+msgid "Upper Color:"
+msgstr ""
+
+#: themes/Copia de fbconnect/functions.php:385
+#: fbconnect/functions.php:386
+#, php-format
+msgid "HEX only (%s or %s)"
+msgstr ""
+
+#: themes/Copia de fbconnect/functions.php:386
+msgid "Lower Color:"
+msgstr ""
+
+#: themes/Copia de fbconnect/functions.php:388
+msgid "Toggle Text"
+msgstr ""
+
+#: themes/Copia de fbconnect/functions.php:389
+msgid "Use Defaults"
+msgstr ""
+
+#: themes/Copia de fbconnect/functions.php:398
+msgid "Font Color"
+msgstr ""
+
+#: themes/Copia de fbconnect/functions.php:399
+msgid "Upper Color"
+msgstr ""
+
+#: themes/Copia de fbconnect/functions.php:400
+msgid "Lower Color"
+msgstr ""
+
+#: themes/Copia de fbconnect/functions.php:401
+msgid "Revert"
+msgstr ""
+
+#: themes/Copia de fbconnect/functions.php:409
+msgid "Update Header"
+msgstr ""
+
+#: themes/Copia de fbconnect/functions.php:415
+msgid "Font Color (CSS):"
+msgstr ""
+
+#: themes/Copia de fbconnect/functions.php:416
+msgid "Upper Color (HEX):"
+msgstr ""
+
+#: themes/Copia de fbconnect/functions.php:417
+msgid "Lower Color (HEX):"
+msgstr ""
+
+#: themes/Copia de fbconnect/functions.php:418
+msgid "Select Default Colors"
+msgstr ""
+
+#: themes/Copia de fbconnect/functions.php:419
+msgid "Toggle Text Display"
+msgstr ""
+
+#: themes/Copia de fbconnect/searchform.php:2
+msgid "Search for:"
+msgstr ""
+

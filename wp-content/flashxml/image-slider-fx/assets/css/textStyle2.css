@@ -1,0 +1,50 @@
+
+/* CSS Document */
+
+
+head
+{
+	font-family: Verdana;
+    font-size: 10px;
+	color: #FF00FF;
+	font-weight: normal;
+	text-align:justify;
+}
+
+body
+{	font-family: Verdana;
+    font-size: 10px;
+	color: #00FF00;
+	font-weight: normal;
+	text-align:justify;
+}
+
+a             
+{	color:#0000FF; 
+
+	font-family: Verdana;
+    font-size: 10px;
+	font-weight: normal;
+	text-align:justify;
+	
+	text-decoration:underline; 
+}
+
+/*a:visited           
+{ 
+	color:red; 
+	text-decoration:underline; 
+}
+
+a:hover             
+{ 	color:green; 
+	text-decoration:underline; 
+}
+
+a:active            
+{ 	color:red; 
+	text-decoration:underline; 
+}
+
+*/
+

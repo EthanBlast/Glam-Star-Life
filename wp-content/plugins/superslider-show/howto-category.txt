@@ -1,0 +1,17 @@
+
+How to use the category post option.
+Important, there is 1 step to make this work.
+
+(1.) Create a post or page and add  id="category:7" to your slideshow short code.
+shortcode sample : 
+[slideshow id="category:7" show_class="category" width="450" height="250" thumbnails="false" linked="parent" ]
+	(1.a)The id where 7 is the category id number
+	(1.b)The show-class (optional)
+	(1.c)size (optional)
+	(1.d)linked (optional)
+
+(2.) Add shortcode option class="sscategory".(optional) 
+
+(3.) Captions will be the Image description.
+
+(4.) Multiple shows on one page will continue to work as expected.

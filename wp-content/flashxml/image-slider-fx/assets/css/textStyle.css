@@ -1,0 +1,29 @@
+
+
+head
+{
+	font-family: Verdana;
+    font-size: 10px;
+	color: #666666;
+	font-weight: normal;
+	text-align:left;
+}
+
+body
+{	font-family: Verdana;
+    font-size: 10px;
+	color: #666666;
+	font-weight: normal;
+	text-align:left;
+}
+
+a             
+{	 
+
+	font-family: Verdana;
+    font-size: 10px;
+	font-weight: normal;
+	text-align:left;
+	
+	text-decoration:underline; 
+}

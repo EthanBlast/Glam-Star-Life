@@ -1,0 +1,155 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Author Info Widget\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-09-25 12:58+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Dennis Hoppe\n"
+"Language-Team:  <jonas@floden.nu>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: t;t:2c,1\n"
+"X-Poedit-Language: Swedish\n"
+"X-Poedit-Country: SWEDEN\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../form.php:2
+msgid "Title"
+msgstr "Titel"
+
+#: ../form.php:4
+msgid "Leave blank to use the widget default title."
+msgstr "Lämna tomt för att använda widgetens standard titel."
+
+#: ../form.php:8
+msgid "Author(s)"
+msgstr "Författare"
+
+#: ../form.php:10
+msgid "Show the author(s) of the post/page"
+msgstr "Visa författare till inlägg/sida"
+
+#: ../form.php:14
+msgid "Show the following author(s)"
+msgstr "Visa följande författare"
+
+#: ../form.php:16
+msgid "Please select the authors which should be shown by the widget."
+msgstr "Vänligen välj vilka författare som skall visas utav widgeten."
+
+#: ../form.php:26
+msgid "Gravatar"
+msgstr "Gravatar"
+
+#: ../form.php:29
+msgid "Show the authors avatar"
+msgstr "Visa författarens avatar"
+
+#: ../form.php:31
+msgid "You can setup your gravatar on <a href=\"http://gravatar.com/\" target=\"_blank\">the gravatar website</a>."
+msgstr "Du kan ange din gravatar på <a href=\"http://gravatar.com/\" target=\"_blank\">gravatars hemsida</a>."
+
+#: ../form.php:33
+msgid "Size"
+msgstr "Storlek"
+
+#: ../form.php:38
+msgid "Display"
+msgstr "Utseende"
+
+#: ../form.php:41
+msgid "Show the name of the author."
+msgstr "Visa författarens namn."
+
+#: ../form.php:45
+msgid "Show the homepage link."
+msgstr "Visa länk till hemsidan."
+
+#: ../form.php:46
+#: ../form.php:51
+#: ../form.php:56
+#: ../form.php:61
+#: ../form.php:66
+msgid "Caption"
+msgstr "Rubrik"
+
+#: ../form.php:50
+msgid "Show the E-Mail address."
+msgstr "Visa e-post adressen."
+
+#: ../form.php:55
+msgid "Show the jabber name."
+msgstr "Visa jabber namnet."
+
+#: ../form.php:60
+msgid "Show the AIM name."
+msgstr "Visa AIM namnet."
+
+#: ../form.php:65
+msgid "Show the YIM name."
+msgstr "Visa YIM namnet."
+
+#: ../form.php:70
+msgid "Show a link to the authors posts on this blog."
+msgstr "Visa länk till författarens inlägg på denna blog."
+
+#: ../form.php:74
+msgid "Miscellaneous"
+msgstr "Diverse"
+
+#: ../form.php:77
+msgid "Hide this widget from users which are not logged in."
+msgstr "Dölj denna widget för användare som inte är inloggade."
+
+#: ../form.php:82
+msgid "Hide this Widget on pages."
+msgstr "Dölj denna widget på sidor."
+
+#: ../wp-plugin-widget-author-info.php:32
+msgid "Author Info"
+msgstr "Författarinformation"
+
+#: ../wp-plugin-widget-author-info.php:33
+msgid "You can add this widget to sidebars on author relevant sections i.e. pages, posts or author archives."
+msgstr "Du kan lägga till denna widget i sidopaneler på författare relevanta sektioner, d.v.s. sidor, inlägg och författararkiv."
+
+#: ../wp-plugin-widget-author-info.php:61
+msgid "Visit website"
+msgstr "Gå till hemsidan"
+
+#: ../wp-plugin-widget-author-info.php:62
+msgid "Write an E-Mail"
+msgstr "Skicka ett e-post"
+
+#: ../wp-plugin-widget-author-info.php:63
+msgid "Contact via Jabber"
+msgstr "Kontakta via Jabber"
+
+#: ../wp-plugin-widget-author-info.php:64
+msgid "Contact via AIM"
+msgstr "Kontakta via AIM"
+
+#: ../wp-plugin-widget-author-info.php:65
+msgid "Contact via YIM"
+msgstr "Kontakta via YIM"
+
+#: ../wp-plugin-widget-author-info.php:160
+msgid "About the author"
+msgstr "Om författaren"
+
+#: ../wp-plugin-widget-author-info.php:163
+msgid "About the authors"
+msgstr "Om författarna"
+
+#: ../wp-plugin-widget-author-info.php:186
+#, php-format
+msgid "Read all of %s Posts"
+msgstr "Läsa alla %s inlägg"
+
+#: ../wp-plugin-widget-author-info.php:188
+#, php-format
+msgid "Read all of %s's Posts"
+msgstr "Läs all av %ss inlägg"
+

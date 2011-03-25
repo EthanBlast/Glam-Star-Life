@@ -1,0 +1,17 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Invite Friends\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Giovanni Caputo <giovannicaputo86@gmail.com>\n"
+"Language-Team: Giovanni Caputo <giovannicaputo86@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Italian\n"
+"X-Poedit-Country: ITALY\n"
+
+#: wp-contactform-iii.php:135
+msgid "hi, plugin is developing"
+msgstr "Ciao, plug.in in fase di sviuppo"
+

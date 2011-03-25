@@ -1,0 +1,71 @@
+<settings>
+  <General_Properties>
+    <width value="601"/>
+    <height value="350"/>
+    <backAlpha value="1"/>
+    <backColor value="0xffffff"/>
+    <items value="3"/>
+    <spacing value="10"/>
+    <simultanSlides value="1"/>
+    <preloader value="assets/preloaders/redsquares.swf"/>
+    <pictures value="images.xml"/>
+    <ShowAbout value="true"/>
+  </General_Properties>
+  <Item_Properties>
+    <width value="150"/>
+    <height value="200"/>
+    <backColor1 value="0x333333"/>
+    <backColor2 value="0xffffff"/>
+    <backAlpha1 value="0"/>
+    <backAlpha2 value="0"/>
+    <backPadding value="0"/>
+  </Item_Properties>
+  <Image_Properties>
+    <width value="125"/>
+    <height value="125"/>
+    <showBorder value="true"/>
+    <borderThickness value="2.9"/>
+    <borderTweenTime value="1"/>
+    <borderColor value="0x000000"/>
+    <selBorderColor value="0xffffff"/>
+  </Image_Properties>
+  <Animation_Properties>
+    <func value="Cubic"/>
+    <method value="easeInOut"/>
+    <duration value="1.1"/>
+    <blurAmount value="30"/>
+  </Animation_Properties>
+  <Text_Properties>
+    <cssFile value="assets/css/textStyle.css?uid=1291345821595"/>
+    <width value="80"/>
+    <height value="22"/>
+    <selectable value="true"/>
+    <embedFonts value="true"/>
+  </Text_Properties>
+  <AutoPlay_Properties>
+    <showPlay value="true"/>
+    <autoPlay value="false"/>
+    <slideShowTime value="4.5"/>
+    <btnX value="273.7"/>
+    <btnY value="292.5"/>
+    <playBtn value="assets/autoPlay/play1.png"/>
+    <pauseBtn value="assets/autoPlay/pause1.png"/>
+  </AutoPlay_Properties>
+  <Reflection_Properties>
+    <useReflection value="false"/>
+    <alpha value="0"/>
+    <ratio value="0"/>
+    <distance value="0"/>
+  </Reflection_Properties>
+  <Scroller_Properties>
+    <width value="3"/>
+    <backColor value="0x000000"/>
+    <barColor value="0xFFFFFF"/>
+  </Scroller_Properties>
+  <Arrow_Properties>
+    <arrowsX value="60"/>
+    <arrowsY value="140"/>
+    <distance value="460"/>
+    <arrowsSkin value="assets/slide-dark.png"/>
+  </Arrow_Properties>
+</settings>

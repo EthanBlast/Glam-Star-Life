@@ -1,0 +1,51 @@
+/* RESET */
+body,div,dl,dt,dd,
+h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,blockquote,th,td{margin:0;padding:0;}
+table{border-collapse:collapse;border-spacing:0;}
+fieldset,img{border:0;}
+address,caption,cite,code,dfn,th,var{font-style:normal;font-weight:normal;}
+caption,th{text-align:left;}
+h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal;}
+q:before,q:after{content:'';}
+abbr,acronym{border:0;}
+em,i{font-style:italic}
+ul, ol, li {padding:0;margin:0;list-style:none;}
+strong, b{font-weight:bold}
+
+
+/* Global declarations */
+body {
+	font-size: 62.5%;
+	margin: 0; }
+ 
+a img { border: none; }
+ 
+.clearfix:after {
+	content: ".";
+	line-height: 0;
+	display: block;
+	height: 0;
+	clear: both;
+	visibility: hidden; }
+ 
+.clearfix { display: inline-block; }
+ 
+*html .clearfix {
+	zoom: 1;
+	display: block; }
+
+a { color: #222; outline: none; }
+ 
+a:link { text-decoration: underline; }
+	
+a:hover { text-decoration: none; }
+ 
+.hidden { display: none; }
+ 
+.clear { clear: both; }
+.clear-left { clear: left; }
+.clear-right { clear: right; }
+
+.float-left { float: left; }
+.float-right { float: right; }
+ 

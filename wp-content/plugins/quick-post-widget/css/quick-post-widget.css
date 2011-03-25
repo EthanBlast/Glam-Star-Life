@@ -1,0 +1,109 @@
+#quick_post_form  {
+	border: 1px solid #9f9f9f;
+	padding: 5px 10px 5px 10px; 
+	margin: 0;
+	-moz-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+}
+
+#quick_post_title {
+	width: 99%;
+	height: 20px;
+	border: 1px solid #9f9f9f;
+	padding: 0;
+	margin: 0;
+}
+
+#quick_post_content {
+	width: 99%;
+	height: 200px;
+	border: 1px solid #9f9f9f;
+	padding: 0;
+	margin: 0;
+}
+
+#quick_post_tags {
+	width: 99%;
+	height: 20px;
+	border: 1px solid #9f9f9f;
+	padding: 0;
+	margin: 0;
+}
+
+#quick_post_cat, #quick_post_new_cat_parent, #quick_post_tag_list {
+	width:100%;
+	padding: 0;
+	margin: 0;
+}
+
+.quick_post_label {
+}
+
+.quick_post_rb {
+}
+
+#quick_post_new_cat {
+	width: 99%;
+	height: 20px;
+	border: 1px solid #9f9f9f;
+	padding: 0;
+	margin: 0;
+}
+
+#quick_post_submit {
+	margin: 10px 0 0 0;
+}
+
+#quick_post_cat_checklist {
+	list-style-type: none;
+	height: 150px;
+	overflow: auto;
+	border: 1px solid #9f9f9f;
+	width: 99%;
+	padding: 2px 0 2px 0;
+	margin: 0 0 15px 0;
+}
+
+#quick_post_cat_checklist li {
+	background: none;
+	margin:0 0 0 2px;
+	padding:0 0 0 0px;
+}
+#quick_post_cat_checklist li ul{
+	margin:0 0 0 10px;
+}
+
+#quick_post_cat_checklist #cats {
+		margin:0 0 0 2px;
+}
+
+#quick_post_load {
+}
+
+/* Option Panel */
+.quick_post_option_form {
+	text-align: right;
+}
+
+.quick_post_option_form  a {
+	float: left;
+}
+
+.quick_post_option {
+	margin-bottom: 5px;
+	width: 55%;
+}
+
+.quick_post_droplist {
+	width: 40%;
+}
+
+.quick_post_option_label {
+	float: left;
+}
+
+.quick_post_option_header{
+	text-align: left;
+}

@@ -1,0 +1,65 @@
+/* CSS Document */
+#ct-box {
+	margin: 20px;
+}
+div.ct-header-box {
+	background-color: #CCCCCC;
+	padding: 20px;
+	}
+.ct-header-link {
+	padding-right: 20px;
+	}
+.ct-header-link a {
+	text-decoration: none;
+	font-weight: 800;
+	}
+div.post-ct div.entry-meta {
+	padding: 17px 0 0 12px;
+	}
+div.post-ct .ct-category-header {
+	font-weight: 800;
+	font-size: 16px;
+	color: #000;
+	margin-right: 10px;
+	}
+div.post-ct .entry-title {
+	padding: 32px 0 0 12px;
+	}
+div.post-ct .entry-title a {
+	font-size: 16px;
+	font-weight: 800;
+	color: #000;
+	}
+div.post-ct div.ct-avatar {
+	padding: 28px 20px 0 0px;
+	}
+div.post-ct .ct-avatar-image {
+	float: left;
+	margin-right: 20px;
+	}
+div.post-ct .ct-author{
+	padding-top: 28px;
+	}
+div.post-ct .ct-author a {
+	font-size: 16px;
+	font-weight: 800;
+	color: #000;
+	text-decoration: none;
+	}
+div.post-ct div.ct-author .ct-author-label {
+	color: #00CCCC;
+	font-weight: 800;
+	}
+div.post-ct div.entry-content img.pfs-image,
+div.post-ct div.entry-content img.size-medium {
+	height: 350px;
+	width: 418px;
+	margin-top: 20px;
+	}
+div.post-ct p {
+	padding-right: 25px;
+	padding-left: 25px;
+}
+div.post-ct p.more-link {
+	float:right;
+}

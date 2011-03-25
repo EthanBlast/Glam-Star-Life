@@ -1,0 +1,15 @@
+.column-id { width:50px; }
+.column-order { width:100px; }
+
+th.header.headerSortUp span { 
+	background: url(../img/asc.gif) no-repeat center left; 
+}
+
+th.header.headerSortDown span { 
+	background: url(../img/desc.gif) no-repeat center left; 
+}
+
+th.header span { 
+	background: url(../img/bg.gif) no-repeat center left;
+	padding-left: 20px; 
+} 

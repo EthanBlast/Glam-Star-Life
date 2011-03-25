@@ -1,0 +1,37 @@
+.required,.unapproved { color: #aa0000; } 
+
+label { display: block; }
+ 
+div.entry-content input, div.entry-content textarea, div.entry-content label { clear: none; }
+ 
+input,textarea { margin: 0 0 10px; }
+
+input.text, textarea.text {
+	border-top: 1px solid #aaa;
+	border-right: 1px solid #e1e1e1;
+	border-bottom: 1px solid #e1e1e1;
+	border-left: 1px solid #aaa;
+	background: #fff;
+	font-size: 1.1em;
+	padding: 3px;
+	color: #4c4c4c; }
+ 
+.text:focus {
+	background: #f3f3f3;
+	color: #111; }
+ 
+input.text { width: 50%; }
+ 
+textarea.text {
+	width: 70%;
+	line-height: 1.4em; }
+ 
+input.submit {
+	border-top: 1px solid #efefef;
+	border-right: 1px solid #777;
+	border-bottom: 1px solid #777;
+	border-left: 1px solid #efefef;
+	background: #eee;
+	color: #444;
+	font-size: 1.1em;
+	padding: 3px 5px; }

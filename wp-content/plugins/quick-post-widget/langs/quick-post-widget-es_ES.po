@@ -1,0 +1,415 @@
+# Translation of the WordPress plugin Quick Post Widget 1.7.1 by Perry van Akkeren.
+# Copyright (C) 2010 Perry van Akkeren
+# This file is distributed under the same license as the Quick Post Widget package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Quick Post Widget 1.6\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/quick-post-widget\n"
+"POT-Creation-Date: 2010-09-14 21:02+0000\n"
+"PO-Revision-Date: 2010-09-14 23:33+0100\n"
+"Last-Translator: Perry van Akkeren <vanakkeren@live.nl>\n"
+"Language-Team: Perry van Akkeren <vanakkeren@live.nl>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-Country: SPAIN\n"
+
+#: quick-post-widget.php:61
+msgid "The Quick Post Widget provides a quick way to post directly from your site."
+msgstr ""
+
+#: quick-post-widget.php:105
+msgid "Need help? Just click here!"
+msgstr ""
+
+#: quick-post-widget.php:108
+msgid "Widget title"
+msgstr ""
+
+#: quick-post-widget.php:109
+msgid "Widget title to display"
+msgstr ""
+
+#: quick-post-widget.php:111
+#: quick-post-widget.php:112
+msgid "Category list type"
+msgstr ""
+
+#: quick-post-widget.php:113
+msgid "Droplist"
+msgstr ""
+
+#: quick-post-widget.php:114
+msgid "Checklist"
+msgstr ""
+
+#: quick-post-widget.php:117
+#: quick-post-widget.php:118
+msgid "Publish status"
+msgstr ""
+
+#: quick-post-widget.php:119
+msgid "Publish"
+msgstr ""
+
+#: quick-post-widget.php:120
+msgid "Pending"
+msgstr ""
+
+#: quick-post-widget.php:121
+msgid "Draft"
+msgstr ""
+
+#: quick-post-widget.php:124
+msgid "Border error color"
+msgstr ""
+
+#: quick-post-widget.php:125
+msgid "Bordercolor to use in case a required field is empty"
+msgstr ""
+
+#: quick-post-widget.php:128
+msgid "Red"
+msgstr ""
+
+#: quick-post-widget.php:129
+msgid "White"
+msgstr ""
+
+#: quick-post-widget.php:130
+msgid "Yellow"
+msgstr ""
+
+#: quick-post-widget.php:131
+msgid "Fuchsia"
+msgstr ""
+
+#: quick-post-widget.php:132
+msgid "Silver"
+msgstr ""
+
+#: quick-post-widget.php:133
+msgid "Gray"
+msgstr ""
+
+#: quick-post-widget.php:134
+msgid "Olive"
+msgstr ""
+
+#: quick-post-widget.php:135
+msgid "Purple"
+msgstr ""
+
+#: quick-post-widget.php:136
+msgid "Maroon"
+msgstr ""
+
+#: quick-post-widget.php:137
+msgid "Aqua"
+msgstr ""
+
+#: quick-post-widget.php:138
+msgid "Lime"
+msgstr ""
+
+#: quick-post-widget.php:139
+msgid "Teal"
+msgstr ""
+
+#: quick-post-widget.php:140
+msgid "Green"
+msgstr ""
+
+#: quick-post-widget.php:141
+msgid "Blue"
+msgstr ""
+
+#: quick-post-widget.php:142
+msgid "Navy"
+msgstr ""
+
+#: quick-post-widget.php:143
+msgid "Black"
+msgstr ""
+
+#: quick-post-widget.php:157
+msgid "Disable new cat."
+msgstr ""
+
+#: quick-post-widget.php:158
+msgid "Disable creation of new categories (despite of role)"
+msgstr ""
+
+#: quick-post-widget.php:160
+msgid "Show tags field"
+msgstr ""
+
+#: quick-post-widget.php:161
+msgid "Show tags input field"
+msgstr ""
+
+#: quick-post-widget.php:163
+msgid "Disable visual editor"
+msgstr ""
+
+#: quick-post-widget.php:164
+msgid "Disable the visual editor"
+msgstr ""
+
+#: quick-post-widget.php:166
+msgid "Disable editor plugins"
+msgstr ""
+
+#: quick-post-widget.php:167
+msgid "Disable the visual editor plugins"
+msgstr ""
+
+#: quick-post-widget.php:169
+msgid "Disable media upload"
+msgstr ""
+
+#: quick-post-widget.php:170
+msgid "Disable media uploading in the visual editor"
+msgstr ""
+
+#: quick-post-widget.php:172
+msgid "Shared upload directories"
+msgstr ""
+
+#: quick-post-widget.php:173
+msgid "Shared instead of private upload directories"
+msgstr ""
+
+#: quick-post-widget.php:175
+msgid "Newlines tag"
+msgstr ""
+
+#: quick-post-widget.php:176
+msgid "Use P or BR tag for new lines"
+msgstr ""
+
+#: quick-post-widget.php:181
+msgid "Allow guests (not logged-in)"
+msgstr ""
+
+#: quick-post-widget.php:182
+msgid "Allow guest access (without being logged in, use with care!)"
+msgstr ""
+
+#: quick-post-widget.php:184
+msgid "Guest account"
+msgstr ""
+
+#: quick-post-widget.php:185
+msgid "Dedicated account to use for non-logged-in guests"
+msgstr ""
+
+#: quick-post-widget.php:187
+msgid "Message"
+msgstr ""
+
+#: quick-post-widget.php:188
+msgid "Optional message after a successful post"
+msgstr ""
+
+#: quick-post-widget.php:190
+#: quick-post-widget.php:241
+msgid "Labels"
+msgstr ""
+
+#: quick-post-widget.php:191
+#: quick-post-widget.php:213
+#: quick-post-widget.php:229
+#: quick-post-widget.php:312
+msgid "Post title"
+msgstr ""
+
+#: quick-post-widget.php:192
+msgid "Label for the field [Post title]"
+msgstr ""
+
+#: quick-post-widget.php:194
+#: quick-post-widget.php:216
+#: quick-post-widget.php:232
+#: quick-post-widget.php:313
+msgid "Post content"
+msgstr ""
+
+#: quick-post-widget.php:195
+msgid "Label for the field [Post content]"
+msgstr ""
+
+#: quick-post-widget.php:197
+#: quick-post-widget.php:308
+msgid "Tags"
+msgstr ""
+
+#: quick-post-widget.php:198
+msgid "Label for the field [Tags]"
+msgstr ""
+
+#: quick-post-widget.php:200
+#: quick-post-widget.php:309
+msgid "Category"
+msgstr ""
+
+#: quick-post-widget.php:201
+msgid "Label of the [Categories] droplist"
+msgstr ""
+
+#: quick-post-widget.php:203
+#: quick-post-widget.php:247
+msgid "New cat."
+msgstr ""
+
+#: quick-post-widget.php:204
+msgid "Label of the field [New category]"
+msgstr ""
+
+#: quick-post-widget.php:206
+msgid "Post button"
+msgstr ""
+
+#: quick-post-widget.php:207
+msgid "Label of the [Post] button"
+msgstr ""
+
+#: quick-post-widget.php:209
+msgid "Editor button"
+msgstr ""
+
+#: quick-post-widget.php:210
+msgid "Label of the [Editor] button"
+msgstr ""
+
+#: quick-post-widget.php:212
+msgid "Defaults"
+msgstr ""
+
+#: quick-post-widget.php:214
+msgid "Default content of the field [Post title]"
+msgstr ""
+
+#: quick-post-widget.php:217
+msgid "Default content of the field [Post content]"
+msgstr ""
+
+#: quick-post-widget.php:219
+msgid "Tag list"
+msgstr ""
+
+#: quick-post-widget.php:220
+msgid "Default content of the Tag listbox"
+msgstr ""
+
+#: quick-post-widget.php:222
+msgid "Parent cat."
+msgstr ""
+
+#: quick-post-widget.php:223
+msgid "Default content of the field [Parent category]"
+msgstr ""
+
+#: quick-post-widget.php:225
+msgid "Styles (override CSS)"
+msgstr ""
+
+#: quick-post-widget.php:226
+msgid "Widget"
+msgstr ""
+
+#: quick-post-widget.php:227
+msgid "Styling for the widget (use valid CSS syntax)"
+msgstr ""
+
+#: quick-post-widget.php:230
+msgid "Styling for the field [Post title] (use valid CSS syntax)"
+msgstr ""
+
+#: quick-post-widget.php:233
+msgid "Styling for the field [Post content] (use valid CSS syntax)"
+msgstr ""
+
+#: quick-post-widget.php:235
+msgid "Post tags"
+msgstr ""
+
+#: quick-post-widget.php:236
+msgid "Styling for the field [Tags] (use valid CSS syntax)"
+msgstr ""
+
+#: quick-post-widget.php:238
+msgid "Cat. checklist"
+msgstr ""
+
+#: quick-post-widget.php:239
+msgid "Styling for the [Category checklist] (use valid CSS syntax)"
+msgstr ""
+
+#: quick-post-widget.php:242
+msgid "Styling for labels (use valid CSS syntax)"
+msgstr ""
+
+#: quick-post-widget.php:244
+msgid "Radio"
+msgstr ""
+
+#: quick-post-widget.php:245
+msgid "Styling for the radio button (use valid CSS syntax)"
+msgstr ""
+
+#: quick-post-widget.php:248
+msgid "Styling for the field [New category] (use valid CSS syntax)"
+msgstr ""
+
+#: quick-post-widget.php:250
+msgid "Buttons"
+msgstr ""
+
+#: quick-post-widget.php:251
+msgid "Styling for the [Post] button (use valid CSS syntax)"
+msgstr ""
+
+#: quick-post-widget.php:306
+msgid "Title"
+msgstr ""
+
+#: quick-post-widget.php:307
+msgid "Content"
+msgstr ""
+
+#: quick-post-widget.php:310
+msgid "New category"
+msgstr ""
+
+#: quick-post-widget.php:311
+msgid "Post"
+msgstr ""
+
+#: quick-post-widget.php:314
+msgid "Quickselect a tag"
+msgstr ""
+
+#: quick-post-widget.php:315
+msgid "Parent category"
+msgstr ""
+
+#: quick-post-widget.php:332
+msgid "Visual Editor"
+msgstr ""
+
+#: quick-post-widget.php:449
+msgid "OK"
+msgstr "Aplicar"
+
+#: quick-post-widget.php:450
+msgid "Cancel"
+msgstr "Cancelar"
+
+#. Description of the plugin/theme
+msgid "This plugin provides a widget to post directly from the frontpanel of your site without going into the backend."
+msgstr ""
+

@@ -1,0 +1,20 @@
+div.headway-leaf {
+	display: inline;
+	margin: 4px;
+	padding: 9px 9px 0; }
+ 
+li.widget {
+	display: inline;
+	margin: 15px 0;
+	float: left;
+	clear: both;
+	width: 100%; }
+ 
+div.sidebar ul.horizontal-sidebar li.widget {
+	width: 19%;
+	clear: none; }
+
+div#top { display: inline; }
+
+form#header-search-bar { width: 20%; }
+form#header-search-bar input { width: 100%; margin-top: -13px; }

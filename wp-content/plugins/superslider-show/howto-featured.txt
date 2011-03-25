@@ -1,0 +1,23 @@
+
+
+How to use the featured post option.
+Important, there are 3 steps to make this work.
+
+(1.) Create a post or page and add  id="featured" to your slideshow short code.
+shortcode sample : 
+[slideshow id="featured" show_class="featured" width="450" height="250" thumbnails="false" linked="parent" ]
+	(1.a)The id ="featured"
+	(1.b)The show-class="featured"
+
+(2.) Add a custom field to each of the posts which you would like to feature.
+       Key name = featured
+       Key value = 1
+The first image from each post will be used in the featured slideshow.
+
+(3.) You will need to ensure that you have attached an image to each of your featured pages or posts.
+       (using the WordPress media uploader on the post page)
+
+(4.) Captions contain 3 elements,
+	(4.a) title: Post title
+	(4.a) copy: Image description (first image in post)
+	(4.a) link: Image title (first image in post)

@@ -1,0 +1,1203 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Headway 2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-09-29 18:12-0600\n"
+"PO-Revision-Date: 2010-09-29 18:12-0600\n"
+"Last-Translator: Clay Griffiths <clay@claygriffiths.com>\n"
+"Language-Team: Headway Themes <support@headwaythemes.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SearchPath-0: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20\n"
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/comments.php:5
+msgid "This post is password protected.  Please enter the password to view the comments."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/comments.php:12
+msgid "to"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/comments.php:26
+msgid "There are no comments yet.  Be the first and leave a response!"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/comments.php:31
+msgid "Sorry, comments are closed for this post."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/comments.php:54
+msgid "You must be logged in to post a comment."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/comments.php:54
+msgid "Click here to log in."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/comments.php:62
+#, php-format
+msgid "You are currently logged in as <a href=\"%1$s\">%2$s</a>."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/comments.php:64
+msgid "Log out."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/comments.php:64
+msgid "Are you sure you want to logout?"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/comments.php:64
+msgid "Logout?"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/comments.php:69
+msgid "Name"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/comments.php:69
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/comments.php:74
+msgid "(required)"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/comments.php:74
+msgid "E-Mail Address"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/comments.php:79
+msgid "Website"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/comments.php:91
+msgid "Comment"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/comments.php:93
+msgid "Wanting to leave an <em><a href=\"#\" id=\"show-tags\" onclick=\"document.getElementById('tags').style.display = 'block';return false;\">&lt;em&gt;phasis</a></em> on your comment?"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/comments.php:97
+msgid "HTML is allowed in the comment box above.  You can use the following tags: <code>&lt;b&gt;&lt;/b&gt;</code>, <code>&lt;strong&gt;&lt;/strong&gt;</code>, <code>&lt;i&gt;&lt;/i&gt;</code>, <code>&lt;em&gt;&lt;/em&gt;</code>, <code>&lt;address&gt;&lt;/address&gt;</code>, <code>&lt;abbr&gt;&lt;/abbr&gt;</code>, <code>&lt;acronym&gt;&lt;/acronym&gt;</code>, <code>&lt;a href=&quot;&quot;&gt;&lt;/a&gt;</code>."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/comments.php:101
+msgid "Submit Comment"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/comments.php:113
+msgid "Trackback URL"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/core/core-elements.php:877
+msgid "Font/Typeface"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/core/core-functions.php:264
+msgid "Administration Panel"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/core/core-functions.php:266
+msgid "Administration Login"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/core/core-functions.php:305
+msgid "Powered By"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/core/core-functions.php:317
+msgid "Copyright"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/core/core-functions.php:331
+msgid "Go To Top"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/core/core-layout.php:117
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/core/core-layout.php:119
+msgid "Subscribe via RSS"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/core/core-layout.php:201
+msgid "You Are Here:"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/core/core-layout.php:201
+msgid "Home"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/core/core-layout.php:241
+msgid "Search Results For:"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/core/core-layout.php:248
+msgid "Author Archives:"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/core/core-layout.php:250
+msgid "404 Error!"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/core/core-layout.php:251
+msgid "Tag Archives:"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/core/core-layout.php:252
+msgid "Archives:"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/core/core-layout.php:350
+msgid "Type here to search..."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/core/core-posts.php:38
+msgid "Edit post"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/leafs/content.php:479
+msgid "<span class=\"meta-nav\">&laquo;</span> Previous Post"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/leafs/content.php:483
+msgid "Next Post <span class=\"meta-nav\">&raquo;</span>"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/leafs/content.php:499
+#, php-format
+msgid "<h2 class=\"page-title archives-title\">Category Archives: %s</span></h2>"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/leafs/content.php:506
+#, php-format
+msgid "<h2 class=\"page-title archives-title\">Daily Archives: %s</h2>"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/leafs/content.php:508
+#, php-format
+msgid "<h2 class=\"page-title archives-title\">Monthly Archives: %s</h2>"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/leafs/content.php:510
+#, php-format
+msgid "<h2 class=\"page-title archives-title\">Yearly Archives: %s</h2>"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/leafs/content.php:515
+#, php-format
+msgid "<h2 class=\"page-title archives-title\">Tag Archive: %s</h2>"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/leafs/content.php:525
+#, php-format
+msgid "<h2 class=\"page-title author archives-title\">Author Archives: %s</h2>"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/leafs/content.php:530
+#, php-format
+msgid "<h2 class=\"page-title archives-title\">Search Results for: <span id=\"search-terms\">%s</span></h2>"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/leafs/featured.php:6
+msgid "Continue Reading &raquo;"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/leafs/feed.php:191
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/visual-editor.php:88
+msgid "Enter Visual Editor"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/visual-editor.php:89
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/main.php:43
+msgid "WordPress Admin"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:17
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/main.php:32
+msgid "Mass Font Change"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:20
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:726
+msgid "Titles"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:46
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:752
+msgid "Header title, post/page titles, widget headings, post meta"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:50
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:756
+msgid "Content"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:76
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:782
+msgid "Post/page content, hyperlinks, tagline"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:102
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/main.php:20
+msgid "Linking Options"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:104
+msgid "Select which page you would like to copy the leafs from."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:109
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:394
+msgid "Pages"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:114
+msgid "&mdash; Do Not Link &mdash;"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:122
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:397
+msgid "System Pages"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:160
+msgid "Live CSS"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:162
+msgid "To use Live CSS, start typing your CSS below. Most changes will appear immediately. Be sure to click the Save button to keep your changes. Reload the Visual Editor to see any other changes. Live CSS settings will automatically transfer when you upgrade your version of Headway."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:179
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/main.php:30
+msgid "Export"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:181
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:246
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:24
+msgid "Styles"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:184
+msgid "Choose the style you would like to export with the select box below and click Export Style!"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:202
+msgid "Export Style"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:206
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:254
+msgid "Leaf Templates"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:209
+msgid "Choose a template using the select box below and click <em>Export Leaf Template</em> to export the template you select."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:227
+msgid "Export Leaf Template"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:232
+msgid "If you are looking to export site/header configurations, SEO settings, or Headway configuration settings, go to the Headway Configuration panel in the WordPress admin."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:244
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/main.php:29
+msgid "Import"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:249
+msgid "Browse to the style you wish to import on your computer. Once the style has been uploaded, it will appear in the style selector.  Find the style and click Load Style to view it."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:257
+msgid "Browse to the leaf template you wish to import on your computer.  The template will automatically show up in the leaf templates dropdown under Leafs &amp; Columns &raquo; Templates."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:263
+msgid "If you are looking to import site/header configurations, SEO settings, or Headway configuration settings, go to the Headway Configuration panel in the WordPress admin."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:276
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:282
+msgid "Save Style"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:278
+msgid "Enter the name you would like to name the style you are saving, then click Save Style."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:280
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:317
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:319
+msgid "Style Name"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:293
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:301
+msgid "Save Template"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:295
+msgid "Enter the name you would like to name the template you are saving, then click Save Template."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:297
+msgid "<strong>Note:</strong> If you have made changes to the layout and haven't saved the changes in the visual editor, you must do so before saving the leafs as a template."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:299
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:347
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:349
+msgid "Template Name"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:312
+msgid "Edit Style"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:329
+msgid "Save Style Settings"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:330
+msgid "Delete Style"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:342
+msgid "Edit Template"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:355
+msgid "Delete Template"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:362
+msgid "Save Template Settings"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:363
+msgid "Set Template As Default"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:364
+msgid "Remove Template As Default"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:403
+msgid "Blog Index"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:404
+msgid "Single Post"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:405
+msgid "Category Archives"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:406
+msgid "Archives"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:409
+msgid "Tag Archives"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:411
+msgid "Author Archives"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:412
+msgid "Search Results"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:413
+msgid "404 Page"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:420
+msgid "Post Type &ndash; "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:431
+msgid "Switch To Layout"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:452
+msgid "Save &amp; Link"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:455
+msgid "Link to Pages:"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:463
+msgid "Link to System Pages:"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:477
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/main.php:21
+msgid "Save and Link"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:508
+msgid "Skin Preview"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:542
+msgid "If the visual editor takes longer than 20 seconds to load, please contact Headway Support at <a href=\"mailto:support@headwaythemes.com\">support@headwaythemes.com</a> or visit the Headway forums.<br /><br />We make every effort to respond to all support requests within 24 hours, Monday-Friday US Central Time."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:574
+msgid "Quick Start Wizard"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:586
+msgid "Select a Layout"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:587
+msgid "Using the icons below, choose the layout you would like your site to resemble.  This will set <strong>every page</strong> on your website to the layout you select below."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:592
+msgid "<strong>Warning!</strong> This will replace EVERY page layout on your site.  If you wish to preserve one or some of your leaf templates, save them using the Leaf Templates saving functionality.  Otherwise, click the checkbox below to not change any layouts."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:595
+msgid "Skip this step (do not change any Page Layouts)"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:606
+msgid "Use Columns System"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:611
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:633
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:713
+msgid "Skip Wizard"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:618
+msgid "Upload Header Image"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:620
+msgid "If you have a banner, logo, or any other image that you would like to use, upload it using the button below.  Otherwise, go to the next step."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:622
+msgid "After you upload your image, we will also analyze it for the next step in this wizard to build a matching color scheme."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:625
+msgid "Recommended Size:"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:630
+msgid "Image Uploaded!"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:630
+msgid "Go to the next step to continue customization."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:636
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:716
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:785
+msgid "Previous Step"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:637
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:717
+msgid "Next Step"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:641
+msgid "Color Scheme"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:661
+msgid "To set up the color scheme of your website, drag the following colors onto the spots below <span style=\"font-weight: bold;color: #aa0000;\">(primary, secondary, and tertiary are required!)</span>.  Or, manually select the color by clicking on the color box.  <span id=\"colors-from-header-image\" style=\"display: none; font-weight: bold;\">The colors below were automatically generated from the header image you uploaded in the previous step.</span><span id=\"colors-from-headway\">The colors below are a few colors you can use to build a color scheme quickly."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:665
+msgid "Colors"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:683
+msgid "Selected Colors"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:687
+msgid "Primary Color"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:688
+msgid "Header title, post/page titles, hyperlinks"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:693
+msgid "Secondary Color"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:694
+msgid "Navigation, heading 1 and 2's in content"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:699
+msgid "Tertiary (Third) Color"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:700
+msgid "Tagline, leaf titles, widget titles"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:705
+msgid "Background Color"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:721
+msgid "Fonts"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:723
+msgid "Choose which fonts you would like for the following."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/boxes.php:786
+msgid "Build Site &amp; Finish"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/main.php:11
+msgid "Reload Visual Editor"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/main.php:12
+msgid "Close Visual Editor"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/main.php:17
+msgid "Linking"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/main.php:26
+msgid "Tools"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/main.php:33
+msgid "Run Wizard"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/main.php:34
+msgid "Live CSS Editor"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/main.php:47
+msgid "Headway Configuration"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/main.php:51
+msgid "Headway Tools"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/main.php:55
+msgid "Headway Easy Hooks"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/main.php:60
+msgid "Network Sites"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/main.php:65
+msgid "Widgets"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/main.php:70
+msgid "Edit This Post"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/main.php:70
+msgid "Edit This Page"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/main.php:84
+msgid "Editing:"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/main.php:87
+msgid "Linked To:"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/main.php:97
+msgid "Styles and Design"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/main.php:99
+msgid "Skins"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/main.php:101
+msgid "Leafs and Columns"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/main.php:103
+msgid "Header"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/main.php:105
+msgid "Navigation"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/main.php:107
+msgid "Footer"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/main.php:109
+msgid "Site Dimensions"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:23
+msgid "Design Editor"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:26
+msgid "Background"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:33
+msgid "Inspector"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:35
+msgid "Simply hover an element to get more information about it.  Click it to style it."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:41
+msgid "Element Selector"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:43
+msgid "Select an element below that you would like to style."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:45
+msgid "Tip:"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:45
+msgid "Use the inspector above and click on any element you would like to style and the settings will show up."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:51
+msgid "Call This Element Out"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:56
+msgid "Colors:"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:65
+msgid "Fonts:"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:84
+msgid "To view a style, click on the style to select it then click <strong>Load Style</strong>.  If you are satisfied with how a style looks, you must save the visual editor using the \"Save All Changes\" button in the bottom-right."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:104
+msgid "Load Style"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:106
+msgid "You do not have any styles.  Use the import functionality (under Tools) to import a style or use the Save Current Style button below to save your current design preferences."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:108
+msgid "Save Current Style"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:110
+msgid "For more styles, use the import feature under <strong>Tools &raquo; Import</strong>."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:115
+msgid "Body Background Image"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:129
+msgid "OR Link Directly To Background Image"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:134
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:631
+msgid "Delete"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:140
+msgid "Background Tiling"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:142
+msgid "Tile"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:143
+msgid "Tile Horizontally"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:144
+msgid "Tile Vertically"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:145
+msgid "No Tiling"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:147
+msgid "Choose how you would like the body background image to be tiled."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:165
+msgid "No Skin"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:173
+msgid "No Skin (Default)"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:173
+msgid "Use Design Editor"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:181
+msgid "Preview Skin"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:182
+msgid "Activate Skin"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:184
+msgid "To finish activating the skin you have selected, save your changes by clicking the \"Save All Changes\" button the bottom right then reload the visual editor."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:186
+msgid "For more skins, go to the <a class=\"keep-active\" target=\"_blank\" href=\"http://headwaythemes.com/marketplace\">Headway Marketplace</a>."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:197
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:604
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:795
+msgid "Actions"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:199
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:226
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:228
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:251
+msgid "Add"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:200
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:275
+msgid "Columns"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:201
+msgid "Templates"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:208
+msgid "If you wish to customize the layout for this page, go to the linking options in the top menu and disable linking (set both select boxes to the <em>Do Not Link</em> option then save). To finish the process, save and reload the visual editor."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:215
+msgid "Arrange Leafs"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:216
+msgid "Resize Leafs"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:218
+msgid "Arrange &amp; Resize Columns"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:264
+msgid "For more leafs, go to the <a class=\"keep-active\" target=\"_blank\" href=\"http://headwaythemes.com/marketplace\">Headway Marketplace</a>."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:270
+msgid "Changing these settings will change the setup for this page only."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:270
+msgid "NOTE:"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:270
+msgid "Modifying these settings may change your layout drastically.  If so, rearrange your site using the new columns."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:272
+msgid "In order to use the new columns and containers, you must <strong>click save in the bottom-right</strong> and <strong>reload the visual editor</strong>."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:281
+msgid "Leaf Columns"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:304
+msgid "Disable Equal Column Heights"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:314
+msgid "Column Widths"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:372
+msgid "Extra Leaf Containers"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:381
+msgid "Show Top Leafs Container"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:386
+msgid "Show Bottom Leafs Container"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:406
+msgid "To load a leaf template, click on the style to select it then click <strong>Load Template</strong>.  Clicking Load Template will automatically save all changes and reload the visual editor."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:422
+msgid "Load Template"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:424
+msgid "You do not have any leaf templates.  Use the import functionality (under Tools) to import a leaf template or use the Save Current Leafs button below to save the leafs on this page as a template."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:426
+msgid "Save Current Page Layout"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:443
+msgid "Wrapper"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:447
+msgid "Leafs"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:456
+msgid "Wrapper Width"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:472
+msgid "Wrapper Vertical Margin"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:487
+msgid "Wrapper Rounded Corners Radius"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:504
+msgid "<strong>Hint:</strong> Enable Leaf resizing to see the padding and margins displayed visually."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:510
+msgid "Leaf Margins"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:525
+msgid "Leaf Padding"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:540
+msgid "Leaf Container Horizontal Padding"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:555
+msgid "Leaf Container Vertical Padding"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:570
+msgid "Leafs Rounded Corners Radius"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:600
+msgid "Header Image"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:602
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:796
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:800
+msgid "Options"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:614
+msgid "Recommended Image Size:"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:626
+msgid "OR Link Directly To Header Image"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:645
+msgid "If your header image is already the size you desire, disable header imager resizing."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:645
+msgid "Header Image Resizing"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:649
+msgid "Enable Header Image Resizing"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:654
+msgid "Header Image Margin"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:654
+msgid "Set the margin or space around the header image.  If you are sure you're header image is the correct size, be sure to make sure this is set to 0px."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:674
+msgid "Hide Header On This Page"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:680
+msgid "Hide Breadcrumbs On This Page"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:687
+msgid "Show or hide elements in the header."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:687
+msgid "Header Elements"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:690
+msgid "Show Tagline"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:691
+msgid "Show Navigation"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:692
+msgid "Show Navigation Search Bar"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:693
+msgid "Show Subscribe Link"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:694
+msgid "Show Breadcrumbs"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:700
+msgid "Header Style"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:700
+msgid "Fixed Header"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:700
+msgid "Fluid Header"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:700
+msgid "Fluid: The header is outside the wrapper and spans the whole width of the page.  Fixed: Header stays inside wrapper."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:710
+msgid "Header Rearranging"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:710
+msgid "Enable header rearranging to change the order of the header, navigation, and breadcrumbs with drag and drop.  Cool, eh?"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:735
+msgid "Hide Footer On This Page"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:741
+msgid "Footer Style"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:743
+msgid "Fixed Footer"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:744
+msgid "Fluid Footer"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:745
+msgid "Much like the header, you can choose if you want to footer to be fluid or fixed.  Fluid is where the footer spans the width of the page and fixed is where the footer stays inside the page wrapper."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:749
+msgid "Show or hide elements in the footer."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:749
+msgid "Footer Elements"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:753
+msgid "Show Admin Link/Login"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:758
+msgid "Show Edit Link"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:763
+msgid "Show Go To Top Link"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:768
+msgid "Show Copyright"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:773
+msgid "Hide Headway Attribution"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:778
+msgid "Custom Copyright"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:778
+msgid "If you wish to have something different than the regular copyright, enter it here.  You MUST use HTML entities in this field."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:797
+msgid "Inactive Tabs"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:799
+msgid "Menus"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:807
+msgid "Headway has detected you are using WordPress' menu functionality."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:807
+msgid "You can select which menu you would like to show in the navigation bar.  You can also change which menu you would like to use for individual pages in the WordPress page editor."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:828
+msgid "Modify Navigation"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:848
+msgid "Hide Navigation On This Page"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:854
+msgid "Navigation Position"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:856
+msgid "Left"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:857
+msgid "Right"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:859
+msgid "Change the position of your navigation."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:864
+msgid "Sub-Navigation"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:869
+msgid "Enable or disable subpages from being shown in the navigation bar."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:869
+msgid "Show Navigation Subpages"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:875
+msgid "Sub-Navigation Width"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:875
+msgid "Change how wide the navigation is when you hover over a parent."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:885
+msgid "Home Link"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:890
+msgid "Hide or show the home link from being shown."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:890
+msgid "Hide Navigation Home Link"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/visual-editor/content/panels.php:895
+msgid "Home Link Text"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/widgets/functions.php:4
+msgid "Simple search form.  Use this Widget instead of the other search widget."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/widgets/functions.php:5
+msgid "Headway Search"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/widgets/functions.php:10
+msgid "Type Here To Search, Then Press Enter"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/widgets/functions.php:44
+msgid "Displays subscribe via RSS and e-mail links."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/widgets/functions.php:45
+msgid "Subscribe"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/widgets/functions.php:58
+msgid "Subscribe via E-Mail"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/widgets/functions.php:86
+msgid "Displays any number of your Twitter updates"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/headway/dev/wp-content/themes/Headway-20/library/widgets/functions.php:87
+msgid "Twitter"
+msgstr ""
+

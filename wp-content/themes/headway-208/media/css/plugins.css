@@ -1,0 +1,10 @@
+/* Greet Box */
+div#greet_block,div#greet_block div { display: block; }
+
+
+/* Subscribe to Comments */
+#commentform p.subscribe-to-comments input#subscribe {
+	display: inline;
+	vertical-align: text-top; }
+
+#commentform p.subscribe-to-comments label { display: inline; }

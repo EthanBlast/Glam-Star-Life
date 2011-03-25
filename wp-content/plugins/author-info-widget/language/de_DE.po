@@ -1,0 +1,155 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Author Info Widget\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-09-25 12:57+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Dennis Hoppe\n"
+"Language-Team: Dennis Hoppe\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: t;t:2c,1\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../form.php:2
+msgid "Title"
+msgstr "Titel"
+
+#: ../form.php:4
+msgid "Leave blank to use the widget default title."
+msgstr "Leer lassen um die Standardtitel zu verwenden."
+
+#: ../form.php:8
+msgid "Author(s)"
+msgstr "Autor(en)"
+
+#: ../form.php:10
+msgid "Show the author(s) of the post/page"
+msgstr "Autor(en) des Artikels anzeigen"
+
+#: ../form.php:14
+msgid "Show the following author(s)"
+msgstr "Profil dieser Autoren anzeigen:"
+
+#: ../form.php:16
+msgid "Please select the authors which should be shown by the widget."
+msgstr "Bitte wählen Sie die Autoren die von diesem Widget angezeigt werden sollen."
+
+#: ../form.php:26
+msgid "Gravatar"
+msgstr "Gravatar"
+
+#: ../form.php:29
+msgid "Show the authors avatar"
+msgstr "Zeige den Gravatar des Autors"
+
+#: ../form.php:31
+msgid "You can setup your gravatar on <a href=\"http://gravatar.com/\" target=\"_blank\">the gravatar website</a>."
+msgstr "Sie können Ihren Gravatar auf <a href=\"http://gravatar.com/\" target=\"_blank\">der Gravatar Webseite</a> hinterlegen."
+
+#: ../form.php:33
+msgid "Size"
+msgstr "Größe"
+
+#: ../form.php:38
+msgid "Display"
+msgstr "Anzeige"
+
+#: ../form.php:41
+msgid "Show the name of the author."
+msgstr "Namen des Autors anzeigen"
+
+#: ../form.php:45
+msgid "Show the homepage link."
+msgstr "Link zur Webseite des Autors anzeigen."
+
+#: ../form.php:46
+#: ../form.php:51
+#: ../form.php:56
+#: ../form.php:61
+#: ../form.php:66
+msgid "Caption"
+msgstr "Beschriftung"
+
+#: ../form.php:50
+msgid "Show the E-Mail address."
+msgstr "E-Mailadresse anzeigen."
+
+#: ../form.php:55
+msgid "Show the jabber name."
+msgstr "Jabber Namen anzeigen."
+
+#: ../form.php:60
+msgid "Show the AIM name."
+msgstr "AIM Namen anzeigen."
+
+#: ../form.php:65
+msgid "Show the YIM name."
+msgstr "YIM Namen anzeigen."
+
+#: ../form.php:70
+msgid "Show a link to the authors posts on this blog."
+msgstr "Link zu den Artikeln des Autors anzeigen."
+
+#: ../form.php:74
+msgid "Miscellaneous"
+msgstr "Sonstiges"
+
+#: ../form.php:77
+msgid "Hide this widget from users which are not logged in."
+msgstr "Dieses Widget vor nicht eingeloggten Besuchern verstecken."
+
+#: ../form.php:82
+msgid "Hide this Widget on pages."
+msgstr "Dieses Widget nicht auf Seiten anzeigen."
+
+#: ../wp-plugin-widget-author-info.php:32
+msgid "Author Info"
+msgstr "Autorinformation"
+
+#: ../wp-plugin-widget-author-info.php:33
+msgid "You can add this widget to sidebars on author relevant sections i.e. pages, posts or author archives."
+msgstr "Sie können dieses Widget in Autorenbezogene Sidebars einbinden, z.B. Seiten, Artikel oder Autorarchive."
+
+#: ../wp-plugin-widget-author-info.php:61
+msgid "Visit website"
+msgstr "Webseite besuchen"
+
+#: ../wp-plugin-widget-author-info.php:62
+msgid "Write an E-Mail"
+msgstr "E-Mail schreiben"
+
+#: ../wp-plugin-widget-author-info.php:63
+msgid "Contact via Jabber"
+msgstr "Via Jabber kontaktieren"
+
+#: ../wp-plugin-widget-author-info.php:64
+msgid "Contact via AIM"
+msgstr "Via AIM kontaktieren"
+
+#: ../wp-plugin-widget-author-info.php:65
+msgid "Contact via YIM"
+msgstr "Via YIM kontaktieren"
+
+#: ../wp-plugin-widget-author-info.php:160
+msgid "About the author"
+msgstr "Über den Autor"
+
+#: ../wp-plugin-widget-author-info.php:163
+msgid "About the authors"
+msgstr "Über die Autoren"
+
+#: ../wp-plugin-widget-author-info.php:186
+#, php-format
+msgid "Read all of %s Posts"
+msgstr "Alle Artikel von %s"
+
+#: ../wp-plugin-widget-author-info.php:188
+#, php-format
+msgid "Read all of %s's Posts"
+msgstr "Alle Artikel von %s"
+

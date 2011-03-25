@@ -1,0 +1,15 @@
+/* Wrapper */
+div#whitewrap { display: inline-block; width: 100%; }
+
+div#wrapper {
+	background: #fff; 
+	border: 0 solid;
+	margin: %%wrapper_margin%%;
+	width: %%wrapper_width%%px;
+	clear: both; }
+ 
+	div.header-outside div#wrapper {
+		border-width: 0 1px 1px 1px;
+		margin: 0 auto; }
+		
+$$wrapper_border_top_fluid$$

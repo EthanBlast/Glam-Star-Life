@@ -1,0 +1,201 @@
+
+.filter_form label {
+display:block;
+margin:0 0 4px;
+}
+
+
+ .editor_panel .right {
+padding:5px 0 10px 10px;
+width:294px;
+}
+
+
+
+.userlist {
+background:#FFFFFF none repeat scroll 0 0;
+border:1px solid #D8DFEA;
+height:100px;
+line-height:20px;
+overflow:auto;
+padding:3px;
+width:320px;
+}
+
+
+ .userlist input {
+margin:0 5px;
+}
+.inputcheckbox {
+border:0 none;
+}
+
+.userlist label {
+color:#000000;
+display:inline;
+font-weight:normal;
+margin:0;
+}
+
+label {
+color:#666666;
+cursor:pointer;
+font-weight:bold;
+}
+
+.filter_form {
+padding:5px 0 7px;
+}
+
+.filter_form input {
+margin:0;
+width:320px;
+}
+
+
+
+
+.inputtext, .inputpassword {
+border:1px solid #BDC7D8;
+font-family:"lucida grande",tahoma,verdana,arial,sans-serif;
+font-size:11px;
+padding:3px;
+}
+
+ #email_button {
+margin-top:6px;
+width:150px;
+}
+.module_options input {
+margin:0 0 5px;
+}
+.inputbutton, .inputsubmit {
+background-color:#F7740A;
+border-color:#D9DFEA #0E1F5B #0E1F5B #D9DFEA;
+border-style:solid;
+border-width:1px;
+color:#FFFFFF;
+font-family:"lucida grande",tahoma,verdana,arial,sans-serif;
+font-size:11px;
+padding:2px 15px 3px;
+text-align:center;
+}
+
+#tipologie li {
+    display: inline;
+    font-size: 130%;
+    width: auto;
+    background: none;
+    padding: 0;
+    border: 0;
+    margin: 0;
+    float: left;
+    clear: left;
+} 
+
+#dati li {
+    display: inline;
+    font-size: 130%;
+    width: 30px;
+    background: none;
+    padding: 0;
+    border: 0;
+    margin: 0;
+    float: left;
+    clear: left;
+} 
+
+#label input {
+display: block;
+width: 150px;
+float: left;
+margin-bottom: 10px;
+}
+
+#label {
+text-align: right;
+width: 75px;
+padding-right: 20px;
+}
+
+#br {
+clear: left;
+}
+
+
+#btn{
+	width: 140px;
+	border: 0;
+    margin: 10px  10px 10px 60px;
+    float: left;
+    clear: left;
+
+}
+
+#btncheck{
+	border: 0;
+    float: left;
+    clear: left;
+	background-color:#D9DFEA;
+	border-color:#D9DFEA #0E1F5B #0E1F5B #D9DFEA;
+	margin:1px 15px 0 3px;
+	width:90px;
+}
+
+.manual{
+	border: 0;
+    margin: 0px;
+	padding: 0px;
+    float: left;
+	width: 250px;
+    clear: left;
+}
+
+
+.inpt{
+   width: 200px;
+}
+
+#friends  {
+color: #aaaa44;
+}
+#registred {
+color: #33ffaa;
+}
+
+#notregistred {
+color:#446677 ;
+}
+
+#tipologie{
+ float: left;
+}
+#usr_pwd{
+	float: right;
+}
+
+#invtFrinds{
+ float: left;
+ width: 500px;
+}
+
+#yahooAPI{
+	float: right;
+}
+
+#uploadFile{
+	float: right;
+	width: 250px;
+}
+
+#facebookDiv{
+	float: right;
+	width: 250px;
+	margin: 50px 40px 4px 4px;
+}
+
+
+#msnAPI{
+	float: right;
+}
+

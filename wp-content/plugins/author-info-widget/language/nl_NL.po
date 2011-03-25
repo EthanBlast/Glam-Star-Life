@@ -1,0 +1,156 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Author Info Widget v1.2.10\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-12-09 09:51+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Dennis Hoppe\n"
+"Language-Team: Translation by WordPressWebshop.com <info@wpwebshop.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Dutch\n"
+"X-Poedit-Country: NETHERLANDS\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: t;t:2c,1\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../form.php:2
+msgid "Title"
+msgstr "Titel"
+
+#: ../form.php:4
+msgid "Leave blank to use the widget default title."
+msgstr "Laat leeg om de standaard widget titel te gebruiken."
+
+#: ../form.php:8
+msgid "Author(s)"
+msgstr "Auteur(s)"
+
+#: ../form.php:10
+msgid "Show the author(s) of the post/page"
+msgstr "Geef de auteur(s) van het bericht/pagina weer"
+
+#: ../form.php:14
+msgid "Show the following author(s)"
+msgstr "Geef het profiel weer van de volgende auteur(s)"
+
+#: ../form.php:16
+msgid "Please select the authors which should be shown by the widget."
+msgstr "Selecteer de auteurs welke weergegeven moeten worden door het widget"
+
+#: ../form.php:26
+msgid "Gravatar"
+msgstr "Gravatar"
+
+#: ../form.php:29
+msgid "Show the authors avatar"
+msgstr "Geef het avatar weer van de auteur"
+
+#: ../form.php:31
+msgid "You can setup your gravatar on <a href=\"http://gravatar.com/\" target=\"_blank\">the gravatar website</a>."
+msgstr "Je kan je avatar instellen op de <a href=\"http://gravatar.com/\" target=\"_blank\">gravatar website</a>."
+
+#: ../form.php:33
+msgid "Size"
+msgstr "Grootte"
+
+#: ../form.php:38
+msgid "Display"
+msgstr "Weergave"
+
+#: ../form.php:41
+msgid "Show the name of the author."
+msgstr "Geef de naam van de auteur weer."
+
+#: ../form.php:45
+msgid "Show the homepage link."
+msgstr "Geef de homepage link weer."
+
+#: ../form.php:46
+#: ../form.php:51
+#: ../form.php:56
+#: ../form.php:61
+#: ../form.php:66
+msgid "Caption"
+msgstr "Bijschrift"
+
+#: ../form.php:50
+msgid "Show the E-Mail address."
+msgstr "Weergave email adres."
+
+#: ../form.php:55
+msgid "Show the jabber name."
+msgstr "Weergave jabber naam."
+
+#: ../form.php:60
+msgid "Show the AIM name."
+msgstr "Weergave AIM naam."
+
+#: ../form.php:65
+msgid "Show the YIM name."
+msgstr "Weergave YIM naam."
+
+#: ../form.php:70
+msgid "Show a link to the authors posts on this blog."
+msgstr "Geef een link weer naar de berichten van de auteur op deze blog."
+
+#: ../form.php:74
+msgid "Miscellaneous"
+msgstr "Diversen"
+
+#: ../form.php:77
+msgid "Hide this widget from users which are not logged in."
+msgstr "Verberg deze widget voor gebruikers welke niet ingelogd zijn."
+
+#: ../form.php:82
+msgid "Hide this Widget on pages."
+msgstr "Verberg deze widget op pagina's."
+
+#: ../wp-plugin-widget-author-info.php:31
+msgid "Author Info"
+msgstr "Auteur Informatie"
+
+#: ../wp-plugin-widget-author-info.php:32
+msgid "You can add this widget to sidebars on author relevant sections i.e. pages, posts or author archives."
+msgstr "Je kan deze widget toevoegen aan sidebars op relevante secties voor de auteur, bijv. pagina's, berichten of archieven."
+
+#: ../wp-plugin-widget-author-info.php:60
+msgid "Visit website"
+msgstr "Bezoek website"
+
+#: ../wp-plugin-widget-author-info.php:61
+msgid "Write an E-Mail"
+msgstr "Schrijf een email"
+
+#: ../wp-plugin-widget-author-info.php:62
+msgid "Contact via Jabber"
+msgstr "Contacteer via Jabber"
+
+#: ../wp-plugin-widget-author-info.php:63
+msgid "Contact via AIM"
+msgstr "Contacteer via AIM"
+
+#: ../wp-plugin-widget-author-info.php:64
+msgid "Contact via YIM"
+msgstr "Contacteer via YIM"
+
+#: ../wp-plugin-widget-author-info.php:159
+msgid "About the author"
+msgstr "Over de auteur"
+
+#: ../wp-plugin-widget-author-info.php:162
+msgid "About the authors"
+msgstr "Over de auteurs"
+
+#: ../wp-plugin-widget-author-info.php:185
+#, php-format
+msgid "Read all of %s Posts"
+msgstr "Lees alles van %s Berichten"
+
+#: ../wp-plugin-widget-author-info.php:187
+#, php-format
+msgid "Read all of %s's Posts"
+msgstr "Lees alles van %s's Berichten"
+

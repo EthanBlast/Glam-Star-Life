@@ -1,0 +1,34 @@
+div#footer-container {
+	width: 100%;
+	border-top: 0 solid; }
+ 
+div#footer {
+	border-top: 0 solid;
+	display: block;
+	padding: 10px 0;
+	margin: 0 auto;
+	width: %%wrapper_width%%px;
+	clear: both;
+	min-height: 17px; }
+	
+	body.footer-fluid #footer { border-top: none; }
+
+div#footer * {
+	padding: 0;
+	margin: 0; }
+
+div#footer .footer-left {
+	margin-left: 10px;
+	float: left; }
+
+div#footer .footer-right {
+	margin-right: 10px;
+	float: right; }
+
+div#footer a.no-underline { text-decoration: none; }
+div#footer a.no-underline:hover { text-decoration: underline; }
+
+div#footer .copyright {
+	clear: both;
+	text-align: center;
+	margin: 25px 0 0; }

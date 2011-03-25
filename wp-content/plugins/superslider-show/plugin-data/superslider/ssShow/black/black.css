@@ -1,0 +1,571 @@
+/**
+Stylesheet: Slideshow.css
+	CSS for Slideshow.
+
+License:
+	MIT-style license.
+
+Copyright:
+	Copyright (c) 2008 [Aeron Glemann](http://www.electricprism.com/aeron/).
+	
+HTML:
+	<div class="slideshow">
+		<div class="images" />
+		<div class="captions" />
+		<div class="controller" />
+		<div class="thumbnails" />
+	</div>
+	
+Notes:
+	These next four rules are set by the Slideshow script.
+	You can override any of them with the !important keyword but the slideshow probably will not work as intended.
+*/
+
+.slideshow {
+	display: block;
+	position: relative;
+	z-index: 0;
+	border: 1px solid #000;
+}
+.slideshow-images {
+	display: block;
+	overflow: hidden;
+	position: relative;
+}		
+.slideshow-images img {
+	display: block;
+	position: absolute;
+	z-index: 1;
+}		
+.slideshow-thumbnails {
+	overflow: hidden;
+}
+
+
+/**
+HTML:
+	<div class="slideshow-images">
+		<img />
+		<img />
+	</div>
+	
+Notes:
+	The images div is where the slides are shown. width and height over ride within  options
+	Customize the visible / prev / next classes to effect the slideshow transitions: fading, wiping, etc.
+
+
+.slideshow-images {
+	height: 400px;
+	width: 440px;
+
+}		
+
+.slideshow-images-visible { 
+	opacity: 1;
+	left: 0px;
+	top: 0px;
+}	
+.slideshow-images-prev { 
+	opacity: 0; 
+	top: -100px;
+	right: -500px;
+}
+.slideshow-images-next { 
+	opacity: 0; 
+	top: 0px;
+	left: 500px;
+}
+.slideshow-images img {
+	float: left;
+	left: 0;
+	top: 0;
+}	*/
+
+/**
+Notes:
+	These are examples of user-defined styles.
+	Customize these classes to your usage of Slideshow.
+*/
+
+.slideshow {
+	height: 400px;
+	width: 450px;
+	margin: 0 0 0 200px;
+	background: #000000;
+	padding: 20px;
+}
+.slideshow a img {
+	border: 0;
+}
+/**
+Short code:
+	If you were to add a show_class = "mini" to your short code, 
+	you would then add a css class of family as bellow.
+	This will add to or over ride the class slideshow above.
+*/
+.mini{
+	border: 2px solid #999;
+	padding: 5px;
+	height: 150px;
+	width: 150px;
+	margin: 20px;
+	float: left;
+}
+
+/**
+HTML:
+	<div class="slideshow-captions">
+		...
+	</div>
+	
+Notes:
+	Customize the hidden / visible classes to affect the captions animation.
+*/
+
+.slideshow-captions {
+	background: #2b2b2b;
+	top: 20px;
+	color: #bdbdbd;
+	font: normal 12px/16px Arial, sans-serif;
+	text-align:left;
+	right: 20px;
+	overflow: hidden;
+	position: absolute;
+	padding: 10px;
+	border: 1px solid #999;	
+	z-index: 10000;
+}
+.slideshow-captions-hidden {
+	height: 0px;
+	width: 0px;	
+	opacity: 0;
+}
+.slideshow-captions-visible {
+	height: 378px;
+	width: 120px;	
+	opacity: .8;
+}
+.slideshow-captions h3 {
+    margin: 0px 0px;
+    padding:0;
+    display: inline;
+    color:#999;
+}
+/**
+HTML:
+	<div class="slideshow-controller">
+		<ul>
+			<li class="first"><a /></li>
+			<li class="prev"><a /></li>
+			<li class="pause play"><a /></li>
+			<li class="next"><a /></li>
+			<li class="last"><a /></li>
+		</ul>
+	</div>
+	
+Notes:
+	Customize the hidden / visible classes to affect the controller animation.
+*/
+
+html > body .slideshow-controller li {
+	list-style: none;
+}
+.slideshow-controller {
+	background: url(images/controller.png) no-repeat;
+	height: 42px;
+	left: 50%;
+	margin: -21px 0 0 -119px;
+	overflow: hidden;
+	position: absolute;
+	top: 10%;
+	width: 238px;
+	z-index: 10000;
+}
+.slideshow-controller * {
+	margin: 0;
+	padding: 0;
+}
+.slideshow-controller-hidden { 
+	opacity: 0;
+	margin-top: 10px;
+	z-index: -10;
+}
+.slideshow-controller-visible {
+	opacity: 1;
+	margin-top: 140px;
+	z-index: 10000;
+}
+/* control buttons*/
+.slideshow-controller a {
+    background-image: url(images/controller_buttons.png);
+	cursor: pointer;
+	display: block;
+	height: 18px;
+	overflow: hidden;
+	position: absolute;
+	top: 12px;
+	background-repeat: no-repeat;
+}
+.slideshow-controller a.active {
+
+}
+html > body .entry .slideshow-controller li {
+	list-style: none;
+}
+.slideshow-controller li.first a{
+	left: 36px;
+	width: 20px;
+	background-position: 4px 0; }
+.slideshow-controller li.first a.active{
+	background-position: 4px -18px;}
+
+.slideshow-controller li.last a {
+	left: 182px;
+	width: 20px;
+	background-position: -98px 0; }
+.slideshow-controller li.last a.active{
+	background-position: -98px -18px;}
+
+.slideshow-controller li.next a {
+	left: 145px;
+	width: 24px;
+	background-position: -74px 0;}
+.slideshow-controller li.next a.active{
+	background-position: -74px -18px;}
+
+.slideshow-controller li.pause a {
+
+	left: 110px;
+	width: 20px;
+	background-position: -37px 0; }
+.slideshow-controller li.pause a.active{
+	background-position: -37px -18px;}
+
+.slideshow-controller li.play a {
+	background-position: -54px 0; }
+	
+.slideshow-controller li.play a.active {
+	background-position: -54px -18px; }
+	
+.slideshow-controller li.prev a {
+	left: 72px;
+	width: 24px;
+	background-position: -16px 0px; }
+	
+.slideshow-controller li.prev a.active{
+	background-position: -16px -18px;}
+
+/**
+HTML:
+	<div class="slideshow-loader" />
+	
+Notes:
+	Customize the hidden / visible classes to affect the loader animation.
+*/
+
+.slideshow-loader {
+	height: 28px;
+	left: 50%;
+	margin: -14px 0 0 -14px;
+	position: absolute;
+	top: 50%;
+	width: 28px;
+	z-index: 10001;
+}
+.slideshow-loader-hidden {
+	opacity: 0;
+	margin: -14px 0 0 -14px;
+}
+.slideshow-loader-visible {
+	opacity: .9;
+	margin: -14px 0 0 -14px;
+}
+
+/**
+HTML:
+	<div class="slideshow-thumbnails">
+		<ul>
+			<li><a class="slideshow-thumbnails-active" /></li>
+			<li><a class="slideshow-thumbnails-inactive" /></li>
+			...
+			<li><a class="slideshow-thumbnails-inactive" /></li>
+		</ul>
+	</div>
+	
+Notes:
+	Customize the active / inactive classes to affect the thumbnails animation.
+	Use the !important keyword to override FX without affecting performance.
+*/
+
+/*	To use thumb vertical switch in the following classes
+	Overriding the default Slideshow thumbnails for the vertical presentation
+*/
+/*
+.slideshow-thumbnails {
+    	height: 300px;
+    	left: auto;
+    	right: -80px;
+    	top: 0;
+    	width: 70px;
+    }
+    .slideshow-thumbnails ul {
+    	height: 500px;
+    	width: 70px;
+    }   
+*/
+.slideshow-thumbnails {
+	top: -1px;
+	height: 442px;
+	left: -340px;
+	position: absolute;
+	width: 340px;
+	z-index: 10001;
+	background: #000;
+
+}
+.slideshow-thumbnails * {
+	margin: 0;
+	padding: 0;
+}
+
+html > body  .slideshow-thumbnails ul {
+	text-indent: 0px;
+	padding: 0px;
+    margin: 0px;
+    position: absolute;
+}
+html > body .slideshow-thumbnails li {
+	float: left;
+	list-style: none;
+	margin: 0px;
+	position: relative;
+}
+html > body .slideshow li:before{
+	content: "";
+}
+.slideshow-thumbnails a {
+	display: block;
+	padding: 5px;
+	margin: 2px;
+	position: relative; 
+	overflow:hidden;
+}
+.slideshow-thumbnails a:hover {
+	background-color: #747474 !important;
+	opacity: 1 !important;
+}
+.slideshow-thumbnails img {
+	display: block;
+}
+.slideshow-thumbnails-hidden {
+  background-color: #FFF;
+  opacity: 0;
+  top: 50px;
+}
+.slideshow-thumbnails-active
+{
+	opacity: 1;
+	background: #A1A1A1 url(images/active_thumb.png) no-repeat center top;
+    top:0;
+}
+.slideshow-thumbnails-inactive {
+	background-color: #000;
+	opacity: .5;
+	top:0;
+}
+/*	these are the dynamically inserted thumb strip covers, set to each side of thumbnails
+.slideshow-thumbnails .overlay {
+	top: 0px;
+	height: 460px;
+	position: absolute;
+	width: 30px;
+	z-index: 10000;
+	background: url(images/thumbnails_overlay.png) repeat-y top left ;
+}
+.slideshow-thumbnails .overlay.a {
+	left: 0;
+}
+.slideshow-thumbnails .overlay.b {
+    background-position: top right;
+	right: 0;
+	}*/
+.slideshow-thumbnails .overlay {
+	top: 0px;
+	left: 0px;
+	height: 30px;
+	position: absolute;
+	width: 290px;
+	z-index: 10000;
+	background: url(images/thumbnails_overlay_top.png) repeat-x top left ;
+}
+
+.slideshow-thumbnails .overlay.b {
+    background-position: 0 -30px;
+	bottom: 0;
+	top: auto
+	}
+	
+.slideshow-thumbnails .thumbframe {
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    width: 150px;
+    height: 150px;
+    background: url(images/thumbframe.png) no-repeat top;
+    overflow: hidden;
+    }
+/*
+The following only applies when using the featured option
+*/
+.featured .slideshow-thumbnails .overlay {
+	height: 30px!important;
+}
+
+.featured {
+    background: #000000;
+    height: 250px;
+    width: 450px;
+    margin: 20px 0 0 240px;
+    border: 7px solid #333;
+    padding:10px;
+}
+
+/* */   
+.featured .slideshow-images {
+    border: 1px inset #000;
+}
+
+.slideshow-featured-captions h3 {
+    color: #D6C281;
+    margin:15px 0;
+    padding:0;
+}
+
+.slideshow-featured-captions a
+{
+	position: absolute;
+	right: 0px;
+	bottom: 0px;
+	margin: 6px;
+	padding: 3px 12px;
+	background: #666;
+	border: 2px outset #10161e;
+	color: #e9f5ff;
+	font-size: 1.1em;
+	-moz-border-radius:12px;
+	-webkit-border-radius:12px;
+	
+	border-radius:12px;
+}
+.slideshow-featured-captions a:hover {
+    color:#000;
+    background: #D6C281 ;
+}
+.featured .slideshow-featured-captions
+{
+	background: #000;
+	visibility: hidden;
+	bottom: 0;
+	color: #e9f5ff;
+	font: normal 2.1em;
+	right: auto;
+	left: 0;
+	overflow: hidden;
+	position: absolute;
+	text-indent: 0px;
+	height: 230px;
+	width: 0px;
+	z-index: 2000;
+	border: 20px solid #000;
+	text-align: left;
+}
+
+.slideshow-featured-captions-hidden {
+
+	opacity: 0;
+	width: 0px;
+}
+.slideshow-featured-captions-visible {
+
+	opacity: .8;
+	width: 150px;
+}
+.featured .slideshow-thumbnails {
+    left: -306px;
+	height: 284px;
+	width: 284px;
+    top:-7px;
+    background: #000;
+    border-right: 6px solid #272727;
+    border-left: 10px solid #272727;
+}
+
+.featured .slideshow-thumbnails-hidden{
+     -moz-border-radius:8px;
+	-webkit-border-radius:8px;
+	
+	border-radius:8px;	
+	background-color: #9f7a40 !important;
+}
+.featured .slideshow-thumbnails-hidden img{
+
+}
+
+/* sscategory class modifications */
+.sscategory {
+    background: #000000;
+    height: 250px;
+    width: 450px;
+    margin: 20px 0 0 240px;
+    border: 7px solid #333;
+    padding:10px;
+}
+.sscategory .slideshow-images{
+    border: 1px inset #000;
+}
+
+.sscategory .slideshow-thumbnails {
+    left: -286px;
+	height: 284px;
+	width: 282px;
+    top:-7px;
+}
+
+.sscategory .slideshow-thumbnails .overlay {
+	/*height: 200px!important;*/
+}
+.slideshow-sscategory-captions {
+    visibility: hidden;
+    background: #000;
+	bottom: 0;
+	color: #cdcdcd;
+	
+	right: 0;
+	left:0;
+	text-align:center;
+	overflow: hidden;
+	position: absolute;
+	text-indent: 0px;
+	height: 30px;
+	width: 100%;
+	z-index: 2000;
+}
+.slideshow-sscategory-captions h3
+{
+	color: #999999;
+	display: inline;
+	margin: 0px;
+	padding: 6px;
+	text-transform: capitalize;
+}
+.slideshow-sscategory-captions a{
+    padding: 0px 6px;
+}
+.slideshow-sscategory-captions-hidden {
+	opacity: 0;
+	height: 0px;
+}
+.slideshow-sscategory-captions-visible{
+    opacity: .7;
+	height: 50px;
+}

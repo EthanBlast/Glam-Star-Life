@@ -1,0 +1,75 @@
+.theme-twentycarousels { }
+
+div.themecarousels-title-panel {
+    background:#FFF;
+    padding:-5px;
+}
+.theme-twentycarousels .arrow-right {
+	width:30px;
+	height:200px;
+	background:#FFF;
+	float:right;
+}
+
+.theme-twentycarousels .arrow-left {
+	width:30px;
+	height:200px;
+	background:#FFF;
+	float:left;
+}
+
+.theme-twentycarousels .arrow-left a {
+	margin:85px 0 0 0;
+	width:25px;
+	height:30px;
+	background:url(img/arrow_left.png) top left no-repeat;
+	display:block;
+}
+
+.theme-twentycarousels .arrow-right a {
+	margin:85px 0 0 0;
+	width:25px;
+	height:30px;
+	background:url(img/arrow_right.png) top right no-repeat;
+	display:block;
+}
+
+.theme-twentycarousels .hide { display:none; }
+
+.theme-twentycarousels .stepcarousel {
+	position: relative; /* Leave this value alone */
+	overflow: scroll; /* Leave this value alone */
+	height: 250px;
+	background:#FFF;
+}
+
+.theme-twentycarousels .stepcarousel .belt{
+	position: absolute; /* Leave this value alone */
+	left: 0;
+	top: 0;
+}
+
+.theme-twentycarousels .stepcarousel .panel {
+	height:250px;
+	float: left; /* Leave this value alone */
+	overflow: visible; /*Clip content that go outside dimensions of holding panel DIV */
+	margin:10px;
+	padding:10px;
+	display:block;
+}
+
+.theme-twentycarousels .stepcarousel .panel .panel-text {
+	font-family: "Arial, Helvetica, Nimbus Sans L, sans-serif;"
+	font-color:#000;
+}
+
+/*
+
+.wp_carousel_twentycarousels_pagination {
+	margin: -200 px;
+	padding:5px 10px;
+	background:#FFF;
+	text-align:center;
+}
+
+*/

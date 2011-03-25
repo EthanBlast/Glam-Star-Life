@@ -1,0 +1,39 @@
+/**
+Stylesheet: Slideshow.css
+  CSS for Slideshow.
+
+License:
+  MIT-style license.
+
+Copyright:
+  Copyright (c) 2008 [Aeron Glemann](http://www.electricprism.com/aeron/).
+  
+*/
+
+.slideshow-images {
+  height: 300px;
+  width: 400px;
+}    
+.slideshow-images-visible { 
+  opacity: 1;
+  width:400px;
+  height: 300px;
+  margin: 0 0;
+}  
+.slideshow-images-prev { 
+  opacity: 0; 
+  width:800px;
+  height: 600px;
+  margin: -200px -150px;
+}
+.slideshow-images-next { 
+  opacity: 0; 
+  width:800px;
+  height: 600px;
+  margin: -200px -150px;
+}
+.slideshow-images img {
+  float: left;
+  left: 0;
+  top: 0;
+}  

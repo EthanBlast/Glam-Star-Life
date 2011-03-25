@@ -1,0 +1,86 @@
+div.sidebar li.widget { margin: 0 0 25px; }
+
+div.sidebar ul.horizontal-sidebar li.widget {
+	float: left;
+	margin: 0 15px 0 15px;
+	width: 20%; }
+
+.widget-title {
+	margin: 0 0 10px;
+	display: block; }
+
+ul.sidebar {
+	margin: 0;
+	padding: 0; }
+
+	ul.sidebar li { list-style: none; }
+
+		ul.sidebar li ul, ul.link-list {
+			margin: 0 0 10px 10px;
+			padding: 0;
+			list-style: none; }
+
+			ul.link-list { margin-top: 5px; float: left; }
+
+			ul.sidebar li ul li, ul.link-list li {
+				margin: 0 0 7px;
+				list-style: none; }
+
+				ul.sidebar li ul li ul, ul.link-list li ul {
+					padding: 0 0 0 25px;
+					margin: 7px 0 7px; }
+
+span.widget-title { padding: 2px 4px; border-bottom: 1px solid; }
+
+
+/* Social Widget */
+li.widget_socialwidget { text-align: center; }
+ 
+	li.widget_socialwidget span.widget-title { text-align: left; }
+	
+	
+/* Subscribe Widget */
+ul.subscribe { padding: 0 0 0 15px; }
+ 
+	ul.subscribe li {
+		list-style: none;
+		padding: 2px 0 2px 22px; }
+ 
+		ul.subscribe li.rss { background: url(%%template_directory%%/media/images/rss.gif) no-repeat; }
+ 
+		ul.subscribe li.email { background: url(%%template_directory%%/media/images/email.gif) no-repeat; }
+		
+		
+/* Search */
+input#s {
+	width: 96.5%;
+	background: #f6f6f6;
+	border: 1px solid #ccc;
+	color: #666;
+	font-size: 1em;
+	padding: 4px 5px; }
+ 
+	input#s:focus {
+		background: #fff;
+		border: 1px solid #888;
+		color: #222; }
+
+
+/* Twitter */
+ul.twitter-updates,ul.sidebar li ul.twitter-updates {
+	list-style: none;
+	margin: 10px 0 0 10px;
+	padding: 0; }
+ 
+.headway-leaf ul.twitter-updates { margin-left: 0; }
+ 
+ul.twitter-updates li,ul.sidebar li ul.twitter-updates li {
+	clear: both;
+	margin: 0 0 5px;
+	padding: 0 0 5px;
+	border-bottom: 1px solid #ddd;
+	list-style: none; }
+ 
+ul.twitter-updates li span {
+	color: #888;
+	margin: 0 0 0 6px; }

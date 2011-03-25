@@ -1,0 +1,35 @@
+﻿<div class="wrap"> 
+	<form method="post" action="">
+		<fieldset>
+	  <legend><strong>MORFEO triple VIDEO GALLERY <?php echo $id; ?>. Write in your Posts: [morfeo_triple <?php echo $id; ?> /]</strong></legend>
+
+			  <table width="100%" border="0" cellspacing="8" cellpadding="0">
+			    <tr>
+			      <td>Video URL's (Write the url for the youtube videos or the flv videos, a url video for line):</td>
+			      <td><textarea name="video<?php echo $id; ?>" cols="40" rows="8" id="video<?php echo $id; ?>"><?php echo $video; ?></textarea></td>
+			      <td>Video titles:</td>
+			      <td><textarea name="titles<?php echo $id; ?>" cols="40" rows="8" id="titles<?php echo $id; ?>"><?php echo $titles; ?></textarea></td>
+		        </tr>
+			    <tr>
+			      <td>Gallery Width(Number with px or %, default: 100%):</td>
+			      <td><input type='text' id='width<?php echo $id; ?>'  name='width<?php echo $id; ?>'  value='<?php echo $width; ?>'/></td>
+			      <td>Gallery Height (Number with px, default 300px):</td>
+			      <td><input type='text' id='height<?php echo $id; ?>'  name='height<?php echo $id; ?>'  value='<?php echo $height; ?>'/> <input name="id" type="hidden" id="id" value="<?php echo $id; ?>" /></td>
+		        </tr>
+			    <tr>
+			      <td>&nbsp;</td>
+			      <td></td>
+			      <td>&nbsp;</td>
+			      <td></td>
+		        </tr>
+      </table>
+	<input type='submit' name='' value='SAVE MORFEO <?php echo $id; ?>' />
+		 
+      </fieldset>
+	</form>		 
+  <form method="post" action="">
+	  <input name="borrar" type="hidden" id="borrar" value="<?php echo $id; ?>">
+     <input type='submit' name='' value='Delete morfeo gallery <?php echo $id; ?>' />
+    </form>
+  <hr />
+</div>

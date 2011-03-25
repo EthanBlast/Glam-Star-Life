@@ -1,0 +1,67 @@
+.theme-twentycarousels { }
+
+.theme-twentycarousels .arrow-right {
+	width:30px;
+	height:250px;
+	background:#000;
+	float:right;
+}
+
+.theme-twentycarousels .arrow-left {
+	width:30px;
+	height:250px;
+	background:#000;
+	float:left;
+}
+
+.theme-twentycarousels .arrow-left a {
+	margin:112px 0 0 0;
+	width:25px;
+	height:30px;
+	background:url(img/arrow_left.png) top left no-repeat;
+	display:block;
+}
+
+.theme-twentycarousels .arrow-right a {
+	margin:112px 0 0 0;
+	width:25px;
+	height:30px;
+	background:url(img/arrow_right.png) top right no-repeat;
+	display:block;
+}
+
+.theme-twentycarousels .hide { display:none; }
+
+.theme-twentycarousels .stepcarousel {
+	position: relative; /* Leave this value alone */
+	overflow: scroll; /* Leave this value alone */
+	height: 250px;
+	background:#000;
+}
+
+.theme-twentycarousels .stepcarousel .belt{
+	position: absolute; /* Leave this value alone */
+	left: 0;
+	top: 0;
+}
+
+.theme-twentycarousels .stepcarousel .panel {
+	height:210px;
+	float: left; /* Leave this value alone */
+	overflow: hidden; /*Clip content that go outside dimensions of holding panel DIV */
+	margin:10px;
+	padding:10px;
+	background:#333;
+	display:block;
+}
+
+.theme-twentycarousels .stepcarousel .panel .panel-text {
+	font-family: "Helvetica Neue", Arial, Helvetica, "Nimbus Sans L", sans-serif;
+	color:#FFF;
+}
+
+.wp_carousel_twentycarousels_pagination {
+	padding:5px 10px;
+	background:#000;
+	text-align:center;
+}

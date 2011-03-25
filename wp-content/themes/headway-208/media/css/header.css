@@ -1,0 +1,90 @@
+/* Header */
+div#header-container {
+	width: 100%;
+	border-bottom: 0 solid;
+	border-top: 0 solid;
+	float: left; }
+ 
+div#header {
+	position: relative;
+	margin: 0 auto;
+	width: %%wrapper_width%%px;
+	clear: both;
+	float: left; }
+ 
+	body.header-fixed #header { 
+		border-bottom: 0 solid; 
+		border-top: 0 solid; }
+ 
+	body.header-fluid #header { float: none; }
+ 
+div.header-link-top { 
+	float: left;
+	margin: 10px 0 5px 10px; }
+
+div.header-link-image { 
+	margin: %%header_image_margin%%; }
+
+div.header-link-text {
+	margin: 20px 0 6px 15px;
+	float: left; }
+ 
+a.header-link-image-inside {
+	padding: 0;
+	border-bottom: 0 solid;
+	float: left;
+	margin: 0; }
+ 
+	a.header-link-image-inside img { 
+		float: left;
+		border: none; }
+	
+	div.header-link-image a { border-bottom: none; }
+
+h1#tagline, span#tagline {
+	width: 85%;
+	margin: 0 0 20px 15px;
+	float: none;
+	display: block;
+	clear: left; }
+
+	div.header-image #tagline { 
+		margin: 0;
+		position: absolute; 
+		bottom: 30px; 
+		left: 30px; }
+
+div#header a#header-rss-link { 
+	background: url(%%template_directory%%/media/images/rss.gif) no-repeat; 
+	padding: 0 0 0 22px; 
+	float: right; 
+	margin: 15px 15px 7px 7px; 
+	font-size: 13px; 
+	height: 16px; 
+	line-height: 16px; }
+
+div#wrapper div.header-image a#header-rss-link, div#header-container div.header-image a#header-rss-link { position: absolute; margin: 0; top: 20px; right: 20px; }
+
+form#header-search-bar { float: right; }
+
+form#header-search-bar input { 
+	color: rgba(0, 0, 0, .9);
+	background-color: rgba(255, 255, 255, 0.6);
+	position: absolute; 
+	width: 20%; 
+	margin: -12px 7px 0 7px; 
+	padding: 4px 5px;
+	top: 50%; 
+	right: 0; 
+	height: 14px; 
+	line-height: 14px; 
+	display: block; 
+	border-top: 1px solid rgba(0, 0, 0, 0.35);
+	border-left: 1px solid rgba(0, 0, 0, 0.35);
+	border-right: 1px solid rgba(0, 0, 0, 0.1);
+	border-bottom: 1px solid rgba(0, 0, 0, 0.1); }
+
+form#header-search-bar input:focus { background-color: rgba(255, 255, 255, 0.65); }
+
+div.navigation-right form#header-search-bar { float: left; }
+div.navigation-right form#header-search-bar input { left: 0; }

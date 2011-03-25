@@ -1,0 +1,103 @@
+body
+{
+	margin: 0 auto;
+	text-align: center;
+	
+}
+#frame
+{
+	width: 90%;
+	margin: 0 auto;
+	text-align: center;
+	padding: 2em;
+	
+}
+.box
+{
+	float: left;
+	border: #CCC solid 1px;
+	padding: 1.5em;
+}
+
+.box:hover {
+background: #CCC;
+cursor: pointer;
+}
+#screen
+{
+	position: absolute;
+	top: 0;
+	left: 0;
+	background: #000;
+}
+#upload-form
+{
+	position: relative;
+	top: -150px;
+
+	
+}
+#arrow
+{
+	width: 80px;
+	height: 40px;
+	bottom: -40px;
+	position: relative;
+	margin: 0 auto;
+	background: transparent url('../images/down.png') no-repeat 100% 100%;
+	cursor: pointer;
+
+}
+.navbox
+{
+	background: #FFF;
+	width: 220px;
+	height: 110px;
+	padding: 1em;
+	border: #CCC solid 1px;
+	position: fixed;
+	cursor: pointer;
+	left:50%; 
+	top:50%; 
+	margin-left:-110px;
+	margin-top:-55px;
+	display:none;
+
+	-moz-border-radius: 0.7em;
+	-webkit-border-radius: 0.7em;
+	border-radius: 0.7em;
+}
+input
+{
+	width: 100px;
+	height: 50px;
+	border: 0;
+	cursor: pointer;
+	text-align:left;
+}
+.hpt_rename
+{
+	background: transparent url('../images/rename.png');
+}
+.hpt_remove
+{
+	background: transparent url('../images/remove.png');
+}
+.hpt_cancel
+{
+	background: transparent url('../images/cancel.png');
+}
+.hpt_retry
+{
+	background: transparent url('../images/retry.png');
+}
+.hpt_ok
+{
+	background: transparent url('../images/ok.png');
+}
+#input_rename
+{
+display: block;
+width: 200px;
+border: #CCC solid 1px;
+}

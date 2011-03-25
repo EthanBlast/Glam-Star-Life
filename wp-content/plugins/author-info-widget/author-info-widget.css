@@ -1,0 +1,109 @@
+/*
+
+This is an example file of the author info widget style sheet. You can copy
+this file into your theme directory and customize it until it fits your needs.
+
+If this file exists in your theme directory it will be included automaticly
+by the plugin.
+
+*/
+
+
+/* The hole widget */
+.widget_author_info {
+}
+
+
+/* the name of the author */
+.widget_author_info .author-name {
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+
+/* the element which contains the gravatar img */
+.widget_author_info .author-avatar {
+  float: right;
+  margin-left: 10px;
+}
+
+
+/* the gravatar img iself */
+.widget_author_info .author-avatar img.avatar {
+}
+
+
+/* the bio text of the author from the profile */
+.widget_author_info .author-description {
+}
+
+
+/* the list element which contains the contact possibilities */
+.widget_author_info .author-contact {
+}
+
+
+/* the element which contains the link to the authors website */
+.widget_author_info .author-website {
+}
+
+
+/* the link to the authors website itself */
+.widget_author_info .author-website a {
+}
+
+
+/* the element which contains the link to the authors e-mail address */
+.widget_author_info .author-email {
+}
+
+
+/* the link to the authors e-mail address itself */
+.widget_author_info .author-email a {
+}
+
+
+/* the element which contains the link to the authors jabber link */
+.widget_author_info .author-jabber {
+}
+
+
+/* the jabber link itself */
+.widget_author_info .author-jabber a {
+}
+
+
+/* the element which contains the link to the authors AIM link */
+.widget_author_info .author-aim {
+}
+
+
+/* the authors AIM link itself */
+.widget_author_info .author-aim a {
+}
+
+
+/* the element which contains the link to the authors YIM Link */
+.widget_author_info .author-yim {
+}
+
+
+/* the authors YIM Link itself */
+.widget_author_info .author-yim a {
+}
+
+
+/* the element which contains the link to the authors posts */
+.widget_author_info .author-posts-link {
+}
+
+
+/* the authors posts link itself */
+.widget_author_info .author-posts-link a {
+}
+
+
+/* the clearing element */
+.widget_author_info .clear {
+  clear: both;
+}

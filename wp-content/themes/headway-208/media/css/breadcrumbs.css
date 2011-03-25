@@ -1,0 +1,24 @@
+/* Breadcrumbs */ 
+div#breadcrumbs-container {
+	border-bottom: 0 solid;
+	border-top: 0 solid;
+	clear: both; }
+ 
+div#breadcrumbs {
+	float: left;
+	width: %%wrapper_width%%px; }
+ 
+body.header-fixed div#breadcrumbs { 
+	border-bottom: 0 solid; 
+	border-top: 0 solid; }
+ 
+body.header-fluid div#breadcrumbs {
+	float: none;
+	margin: 0 auto; }
+ 
+div#breadcrumbs p {
+	padding: 0;
+	margin: 0 10px;
+	display: block;
+	width: %%wrapper_minus_twenty%%px;
+	overflow: hidden; }

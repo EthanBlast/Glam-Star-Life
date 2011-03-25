@@ -1,0 +1,47 @@
+ /*
+To get started customizing with CSS, we recommend you 
+go to http://headwaythemes.com/documentation/customizing-your-headway-site/custom-css/ 
+to get started.
+
+When writing the selectors for the elements, put body.custom at the
+beginning.
+
+For an example on how to change the background with custom CSS
+we can use the following code.
+
+body.custom {
+	background: red;
+	
+}
+*/
+@import url('custom/custom_ct.css');
+
+body.custom li.pageitem-59 , body.custom li.pageitem-59 a {color:#666; font-size: 12px}
+body.custom li.pageitem-60 , body.custom li.pageitem-60 a {color:#666; font-size: 12px}
+
+body.custom li.pageitem-56 , body.custom li.pageitem-56 a {background: #cecece; color:#000; font-weight: bold}
+
+img.pfs-image {
+	position:relative;
+	max-width:470px;
+	max-height:400px;
+}
+.entry-content img {
+	position:relative;
+	max-width:470px;
+	max-height:400px;
+}
+.entry-content img.sociable-img {
+	position:relative;
+	width:20px;
+}
+ul.advanced-recent-posts {
+	font-size:14px;
+}
+#pfs-post-box-POST {
+	position:relative;
+	z-index:99;
+}
+body {
+	background:url(http://www.glamstarlife.com/wp-content/themes/headway-208/bg.png) center repeat-y;
+}
